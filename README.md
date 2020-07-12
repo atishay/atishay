@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am atishay. Read more about me at https://atishay.me.
+
 <!--
 **atishay/atishay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
