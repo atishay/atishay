@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 I am atishay. Read more about me at https://atishay.me.
 
