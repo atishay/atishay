@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am atishay. Read more about me at https://atishay.me.
+I am atishay. Read more about me at https://atishay.me. I am the author of Hugo In Action. Get it now at http://mng.bz/VM7W
 
 <!--
 **atishay/atishay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
