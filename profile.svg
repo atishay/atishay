@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 -72 779.93 622">
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 127)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #3b6837;
+      }
+
+      .st1 {
+        fill-rule: evenodd;
+      }
+
+      .st1, .st2 {
+        fill: #2c1810;
+      }
+
+      .st3 {
+        fill: #4c842f;
+      }
+
+      .st4 {
+        opacity: .2;
+      }
+
+      .st4, .st5, .st6, .st7, .st8, .st9 {
+        isolation: isolate;
+      }
+
+      .st10 {
+        fill: #ffc7b0;
+      }
+
+      .st11 {
+        fill: #6e3856;
+      }
+
+      .st12 {
+        fill: #585668;
+      }
+
+      .st13 {
+        fill: #313d6e;
+      }
+
+      .st14 {
+        fill: #df7d54;
+      }
+
+      .st15 {
+        fill: #678c6e;
+      }
+
+      .st16 {
+        fill: #272822;
+      }
+
+      .st17 {
+        fill: #747282;
+      }
+
+      .st18 {
+        fill: #84352f;
+      }
+
+      .st19 {
+        fill: #eceef0;
+      }
+
+      .st20 {
+        fill: #4a4960;
+      }
+
+      .st21 {
+        fill: #fbaf3d;
+      }
+
+      .st22 {
+        fill: #794061;
+      }
+
+      .st23 {
+        fill: #a29fb0;
+      }
+
+      .st24 {
+        stroke-linecap: round;
+        stroke-width: 1.49px;
+      }
+
+      .st24, .st25, .st26 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st24, .st26 {
+        stroke: #081344;
+      }
+
+      .st27 {
+        fill: #716f82;
+      }
+
+      .st28 {
+        fill: #072050;
+      }
+
+      .st29 {
+        fill: #ea5444;
+      }
+
+      .st30 {
+        fill: #767684;
+      }
+
+      .st31 {
+        fill: #fcbba4;
+      }
+
+      .st32 {
+        fill: #62324a;
+      }
+
+      .st33 {
+        fill: #ddd;
+      }
+
+      .st34 {
+        fill: #f14747;
+      }
+
+      .st35 {
+        fill-opacity: .18;
+      }
+
+      .st35, .st36 {
+        fill: #081344;
+      }
+
+      .st37 {
+        fill: #f3885e;
+      }
+
+      .st38 {
+        fill: #7f3954;
+      }
+
+      .st39, .st40 {
+        fill: #fff;
+      }
+
+      .st41 {
+        fill: #ffc543;
+      }
+
+      .st42, .st9 {
+        fill: #25253a;
+      }
+
+      .st43 {
+        fill: #a0523a;
+      }
+
+      .st44 {
+        fill: #517f38;
+      }
+
+      .st45 {
+        fill: #709b2c;
+      }
+
+      .st6 {
+        fill: #cdd6f9;
+      }
+
+      .st6, .st7 {
+        mix-blend-mode: overlay;
+        opacity: .55;
+      }
+
+      .st46 {
+        fill: #f38154;
+      }
+
+      .st7 {
+        fill: #c5cbed;
+      }
+
+      .st47 {
+        fill: #ffd72e;
+      }
+
+      .st48 {
+        fill: #9f293b;
+      }
+
+      .st8 {
+        fill: #ce2d29;
+        opacity: .79;
+      }
+
+      .st49 {
+        fill: #8a8c79;
+      }
+
+      .st50 {
+        fill: #2d2d3a;
+      }
+
+      .st51 {
+        fill: #a2cc3b;
+      }
+
+      .st52 {
+        fill: #ffbe62;
+      }
+
+      .st53 {
+        fill: #aba9c4;
+      }
+
+      .st40 {
+        fill-opacity: .45;
+      }
+
+      .st54 {
+        fill: #072859;
+      }
+
+      .st55 {
+        fill: #65b15b;
+      }
+
+      .st25 {
+        stroke: #716f82;
+        stroke-width: 7px;
+      }
+
+      .st56 {
+        fill: #e79271;
+      }
+
+      .st57 {
+        fill: #b1aec1;
+      }
+
+      .st58 {
+        fill: #a5483c;
+      }
+
+      .st26 {
+        stroke-width: 4.59px;
+      }
+
+      .st59 {
+        fill: #1c1c2d;
+      }
+
+      .st60 {
+        fill: #6075b0;
+      }
+
+      .st61 {
+        fill: #fc4f42;
+      }
+
+      .st62 {
+        fill: #7c4b39;
+      }
+
+      .st63 {
+        fill: #6B1E0A;
+      }
+      .st64 {
+        fill: #4A1508;
+      }
+      .st65 {
+        fill: #5D8AA8;
+      }
+
+      .st9 {
+        mix-blend-mode: multiply;
+        opacity: .4;
+      }
+
+      /* Looping animations – slow, subtle (GitHub Pages compatible) */
+      @keyframes bulb-pulse {
+        0%, 100% { fill: #fffef5; opacity: 1; }
+        50% { fill: #fff9c4; opacity: .92; }
+      }
+      @keyframes light-cone {
+        0%, 100% { opacity: .08; }
+        50% { opacity: .14; }
+      }
+      @keyframes lamp-cone-glow {
+        0%, 100% { opacity: 0.82; }
+        50% { opacity: 0.42; }
+      }
+      .anim-lamp-cone { animation: lamp-cone-glow 5s ease-in-out infinite; }
+      @keyframes bulb-color-fade {
+        0%, 100% { fill: #ffe066; }
+        50% { fill: #ffffff; }
+      }
+      .anim-bulb-glow { animation: bulb-color-fade 5s ease-in-out infinite; }
+      @keyframes steam-rise {
+        0% { opacity: 0; transform: translateY(0) scale(1); }
+        35% { opacity: .6; transform: translateY(-12px) scale(1.02); }
+        100% { opacity: 0; transform: translateY(-28px) scale(0.98); }
+      }
+      @keyframes steam-rise-tall {
+        0% { opacity: 0; transform: translateY(0) scale(1); }
+        30% { opacity: .4; transform: translateY(-18px) scale(1.02); }
+        100% { opacity: 0; transform: translateY(-42px) scale(0.98); }
+      }
+      @keyframes code-scroll {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-78px); }
+      }
+      @keyframes laptop-scroll {
+        0% { transform: translate(0, 0); }
+        100% { transform: translate(21px, -65px); }
+      }
+      @keyframes hand-type {
+        0%, 90%, 100% { transform: translate(0, 0); }
+        45% { transform: translate(1px, 0.5px); }
+      }
+      @keyframes hand-move {
+        0%, 100% { transform: translate(0, 0) rotate(0deg); }
+        15% { transform: translate(11px, 4px) rotate(0.25deg); }
+        30% { transform: translate(17px, 6px) rotate(0.35deg); }
+        45% { transform: translate(14px, 5px) rotate(0.2deg); }
+        60% { transform: translate(9px, 3px) rotate(0.25deg); }
+        75% { transform: translate(5px, 2px) rotate(0.1deg); }
+      }
+      @keyframes other-arm-up {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+      }
+      @keyframes eye-twitch {
+        0%, 90%, 100% { transform: scale(1); opacity: 1; }
+        92% { transform: scale(0.92); opacity: 0.4; }
+        94% { transform: scale(1.06); opacity: 1; }
+      }
+      @keyframes hair-sway {
+        0%, 100% { transform: rotate(0deg); }
+        25% { transform: rotate(2.5deg); }
+        50% { transform: rotate(-2deg); }
+        75% { transform: rotate(2deg); }
+      }
+      @keyframes seat-sway {
+        0%, 100% { transform: translateX(0) rotate(0deg); }
+        50% { transform: translateX(4px) rotate(0.4deg); }
+      }
+      @keyframes chair-lean {
+        0%, 100% { transform: rotate(-1.2deg); }
+        50% { transform: rotate(1.8deg); }
+      }
+      @keyframes leaf-wiggle {
+        0%, 100% { transform: rotate(0deg); }
+        25% { transform: rotate(4deg); }
+        75% { transform: rotate(-3.2deg); }
+      }
+      @keyframes leaf-wiggle-2 {
+        0%, 100% { transform: rotate(0deg); }
+        30% { transform: rotate(-4.5deg); }
+        70% { transform: rotate(3.5deg); }
+      }
+      @keyframes whiteboard-content-shade {
+        0%, 100% { filter: hue-rotate(0deg); }
+        50% { filter: hue-rotate(35deg); }
+      }
+      .anim-whiteboard-content { animation: whiteboard-content-shade 4s ease-in-out infinite; }
+      /* Leaves: parallax – each moves at different time and speed */
+      @keyframes leaf-parallax-1 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        25% { transform: translateY(-2px) rotate(3deg); }
+        50% { transform: translateY(1px) rotate(-2deg); }
+        75% { transform: translateY(-1px) rotate(2deg); }
+      }
+      @keyframes leaf-parallax-2 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        33% { transform: translateY(2px) rotate(-3.5deg); }
+        66% { transform: translateY(-1.5px) rotate(2.5deg); }
+      }
+      @keyframes leaf-parallax-3 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        40% { transform: translateY(-2.5px) rotate(2deg); }
+        70% { transform: translateY(1.5px) rotate(-3deg); }
+      }
+      @keyframes leaf-parallax-4 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        20% { transform: translateY(1px) rotate(-4deg); }
+        60% { transform: translateY(-2px) rotate(3deg); }
+      }
+      @keyframes leaf-parallax-5 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        50% { transform: translateY(2px) rotate(3.5deg); }
+      }
+      @keyframes leaf-parallax-6 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        35% { transform: translateY(-1.5px) rotate(-2.5deg); }
+        75% { transform: translateY(2px) rotate(2deg); }
+      }
+      .anim-bulb-pulse { animation: bulb-pulse 3.2s ease-in-out infinite; }
+      .anim-light-cone { animation: light-cone 3.2s ease-in-out infinite; }
+      .anim-steam { animation: steam-rise 4.5s ease-out infinite; }
+      .anim-steam-2 { animation: steam-rise 4.5s ease-out 1.2s infinite; }
+      .anim-steam-3 { animation: steam-rise 4.5s ease-out 2.4s infinite; }
+      .anim-steam-tall { animation: steam-rise-tall 5.5s ease-out 0.6s infinite; }
+      .anim-steam-tall-2 { animation: steam-rise-tall 5.5s ease-out 2.8s infinite; }
+      .anim-code-scroll { animation: code-scroll 14s linear infinite; }
+      .anim-laptop-scroll { animation: laptop-scroll 14s linear infinite; }
+.anim-hand-type { animation: hand-type 4.2s ease-in-out infinite; }
+  .anim-hand-move { animation: hand-move 5.5s ease-in-out infinite; }
+  .anim-other-arm-up { animation: other-arm-up 7.5s ease-in-out infinite; }
+  .anim-eye-twitch { animation: eye-twitch 2.8s ease-in-out infinite; }
+  .anim-hair-sway { animation: hair-sway 6s ease-in-out infinite; }
+  .anim-seat-sway { animation: seat-sway 4s ease-in-out infinite; }
+  .anim-chair-lean { animation: chair-lean 10s ease-in-out infinite; }
+      .anim-leaf-wiggle { animation: leaf-wiggle 5s ease-in-out infinite; }
+      .anim-leaf-wiggle-2 { animation: leaf-wiggle-2 5.5s ease-in-out 0.5s infinite; }
+      .anim-leaf-parallax-1 { animation: leaf-parallax-1 4.2s ease-in-out 0s infinite; }
+      .anim-leaf-parallax-2 { animation: leaf-parallax-2 5.5s ease-in-out 0.9s infinite; }
+      .anim-leaf-parallax-3 { animation: leaf-parallax-3 4.8s ease-in-out 1.6s infinite; }
+      .anim-leaf-parallax-4 { animation: leaf-parallax-4 5.2s ease-in-out 0.3s infinite; }
+      .anim-leaf-parallax-5 { animation: leaf-parallax-5 6s ease-in-out 1.2s infinite; }
+      .anim-leaf-parallax-6 { animation: leaf-parallax-6 4.5s ease-in-out 2s infinite; }
+      /* Pens: slight parallax relative to each other */
+      @keyframes pen-parallax-1 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        40% { transform: translateY(-1.2px) rotate(1.5deg); }
+        70% { transform: translateY(0.8px) rotate(-1deg); }
+      }
+      @keyframes pen-parallax-2 {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        25% { transform: translateY(1px) rotate(-1.2deg); }
+        55% { transform: translateY(-1px) rotate(1.8deg); }
+        85% { transform: translateY(0.5px) rotate(-0.8deg); }
+      }
+      .anim-pen-parallax-1 { animation: pen-parallax-1 5s ease-in-out 0s infinite; }
+      .anim-pen-parallax-2 { animation: pen-parallax-2 5.5s ease-in-out 0.7s infinite; }
+      @keyframes bg-pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      .anim-bg-pulse { animation: bg-pulse 8s ease-in-out infinite; }
+      .scene-bg { fill: url(#bg-radial-light); }
+      .scene-bg-pulse { fill: url(#bg-radial-light-pulse); }
+      .floor-texture-far { fill: url(#floor-texture-light-far); }
+      .floor-texture-mid { fill: url(#floor-texture-light-mid); }
+      .floor-texture-near { fill: url(#floor-texture-light-near); }
+      @media (prefers-color-scheme: dark) {
+        .scene-bg { fill: url(#bg-radial-dark); }
+        .scene-bg-pulse { fill: url(#bg-radial-dark-pulse); }
+        .floor-texture-far { fill: url(#floor-texture-dark-far); }
+        .floor-texture-mid { fill: url(#floor-texture-dark-mid); }
+        .floor-texture-near { fill: url(#floor-texture-dark-near); }
+      }
+      /* 4-persona outfit cycle: 10s total.
+         Incoming outfit fades in (0→1) while outgoing holds at 1, so body is never transparent.
+         Outgoing fades out only after incoming is fully opaque and covering it. */
+      @keyframes outfit-show-1 {
+        0%   { opacity: 1; }
+        23%  { opacity: 1; }   /* holds while outfit2 fades in 20→25% */
+        28%  { opacity: 0; }   /* fades out under fully-opaque outfit2 */
+        95%  { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes outfit-show-2 {
+        0%   { opacity: 0; }
+        20%  { opacity: 0; }
+        25%  { opacity: 1; }   /* fully in while outfit1 still at 1 */
+        48%  { opacity: 1; }   /* holds while outfit3 fades in 45→50% */
+        53%  { opacity: 0; }   /* fades out under fully-opaque outfit3 */
+        100% { opacity: 0; }
+      }
+      @keyframes outfit-show-3 {
+        0%   { opacity: 0; }
+        45%  { opacity: 0; }
+        50%  { opacity: 1; }   /* fully in while outfit2 still at 1 */
+        75%  { opacity: 1; }   /* holds until outfit4 is fully in at 75% */
+        80%  { opacity: 0; }   /* fades out under fully-opaque outfit4 */
+        100% { opacity: 0; }
+      }
+      @keyframes outfit-show-4 {
+        0%   { opacity: 0; }
+        70%  { opacity: 0; }
+        75%  { opacity: 1; }   /* fully in while outfit3 still at 1 */
+        100% { opacity: 1; }   /* stays — outfit1 fades in underneath 95→100% */
+      }
+      .outfit-programmer { opacity: 0; animation: outfit-show-2 12s linear infinite; }
+      .outfit-architect  { opacity: 1; animation: outfit-show-1 12s linear infinite; }
+      .outfit-business   { opacity: 0; animation: outfit-show-3 12s linear infinite; }
+      .outfit-author     { opacity: 0; animation: outfit-show-4 12s linear infinite; }
+      .outfit-programmer.anim-chair-lean { animation: outfit-show-2 12s linear infinite, chair-lean 10s ease-in-out infinite; }
+      .outfit-architect.anim-chair-lean  { animation: outfit-show-1 12s linear infinite, chair-lean 10s ease-in-out infinite; }
+      .outfit-business.anim-chair-lean   { animation: outfit-show-3 12s linear infinite, chair-lean 10s ease-in-out infinite; }
+      .outfit-author.anim-chair-lean     { animation: outfit-show-4 12s linear infinite, chair-lean 10s ease-in-out infinite; }
+      .outfit-programmer.anim-hand-move  { animation: outfit-show-2 12s linear infinite, hand-move 5.5s ease-in-out infinite; }
+      .outfit-architect.anim-hand-move   { animation: outfit-show-1 12s linear infinite, hand-move 5.5s ease-in-out infinite; }
+      .outfit-business.anim-hand-move    { animation: outfit-show-3 12s linear infinite, hand-move 5.5s ease-in-out infinite; }
+      .outfit-author.anim-hand-move      { animation: outfit-show-4 12s linear infinite, hand-move 5.5s ease-in-out infinite; }
+      /* Screen content cycling (synced with outfit phases) */
+      .screen-programmer { opacity: 0; animation: outfit-show-2 12s linear infinite; }
+      .screen-architect  { opacity: 1; animation: outfit-show-1 12s linear infinite; }
+      .screen-business   { opacity: 0; animation: outfit-show-3 12s linear infinite; }
+      .screen-author     { opacity: 0; animation: outfit-show-4 12s linear infinite; }
+      /* Combined: screen phase + monitor scroll (shorthand overwrites, so must list both) */
+      .screen-programmer.anim-code-scroll   { animation: outfit-show-2 12s linear infinite, code-scroll 14s linear infinite; }
+      .screen-programmer.anim-laptop-scroll { animation: outfit-show-2 12s linear infinite, laptop-scroll 14s linear infinite; }
+      /* Wall color per persona */
+      .wall-programmer { opacity: 0; animation: outfit-show-2 12s linear infinite; }
+      .wall-architect  { opacity: 1; animation: outfit-show-1 12s linear infinite; }
+      .wall-business   { opacity: 0; animation: outfit-show-3 12s linear infinite; }
+      .wall-author     { opacity: 0; animation: outfit-show-4 12s linear infinite; }
+      /* PPT slide crossfade – synced to 12s persona cycle.
+         Business phase: 45–80%. Flip at midpoint ~60%, away from persona transitions. */
+      @keyframes ppt-slide-show-1 {
+        0%   { opacity: 1; }
+        57%  { opacity: 1; }   /* hold until midpoint of business phase */
+        63%  { opacity: 0; }   /* 0.72s crossfade out */
+        100% { opacity: 1; }   /* reset for next cycle */
+      }
+      @keyframes ppt-slide-show-2 {
+        0%   { opacity: 0; }
+        57%  { opacity: 0; }   /* hidden until midpoint */
+        63%  { opacity: 1; }   /* 0.72s crossfade in */
+        100% { opacity: 1; }   /* parent opacity handles hiding at phase end */
+      }
+      .ppt-slide-1 { animation: ppt-slide-show-1 12s linear infinite; }
+      .ppt-slide-2 { animation: ppt-slide-show-2 12s linear infinite; }
+      .role-programmer { opacity: 0; animation: outfit-show-2 12s linear infinite; }
+      .role-architect  { opacity: 1; animation: outfit-show-1 12s linear infinite; }
+      .role-business   { opacity: 0; animation: outfit-show-3 12s linear infinite; }
+      .role-author     { opacity: 0; animation: outfit-show-4 12s linear infinite; }
+      /* Seamless content scrolling for architect and author screen phases */
+      @keyframes flowchart-scroll {
+        0%   { transform: translateY(0); }
+        100% { transform: translateY(-78px); }
+      }
+      @keyframes doc-text-scroll {
+        0%   { transform: translateY(0); }
+        100% { transform: translateY(-62px); }
+      }
+      .anim-flowchart-scroll { animation: flowchart-scroll 4s linear infinite; }
+      .anim-doc-scroll       { animation: doc-text-scroll 4s linear infinite; }
+      #laptop-glare { opacity: 0.32; }
+      @media (prefers-color-scheme: dark) {
+        #character-shadow { opacity: 0.55; }
+      }
+    </style>
+    <clipPath id="code-scroll-clip">
+      <rect x="314" y="109" width="184" height="92"/>
+    </clipPath>
+    <clipPath id="laptop-scroll-clip">
+      <use href="#laptop-screen"/>
+    </clipPath>
+    <clipPath id="whiteboard-clip">
+      <rect x="55" y="105" width="195" height="107"/>
+    </clipPath>
+    <!-- Light cone: matches bulb – warmer yellow at lamp, transparent white at long edge (same 5s cycle as bulb) -->
+    <linearGradient id="light-cone-gradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#ffe066" stop-opacity="0.28"/>
+      <stop offset="50%" stop-color="#fff9c4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <!-- Scene background: soft white to light yellow (like soft white bulb) -->
+    <radialGradient id="bg-radial-light" cx="50%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#fffefc"/>
+      <stop offset="50%" stop-color="#fffdf5"/>
+      <stop offset="100%" stop-color="#fff9e6"/>
+    </radialGradient>
+    <radialGradient id="bg-radial-light-pulse" cx="50%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#fffdf5"/>
+      <stop offset="50%" stop-color="#fffce8"/>
+      <stop offset="100%" stop-color="#fff5d4"/>
+    </radialGradient>
+    <radialGradient id="bg-radial-dark" cx="50%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#6a6230"/>
+      <stop offset="60%" stop-color="#4a4430"/>
+      <stop offset="100%" stop-color="#363218"/>
+    </radialGradient>
+    <radialGradient id="bg-radial-dark-pulse" cx="50%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#7a7240"/>
+      <stop offset="60%" stop-color="#5a5240"/>
+      <stop offset="100%" stop-color="#423a28"/>
+    </radialGradient>
+    <!-- Wooden floor -->
+    <linearGradient id="floor-wood-light" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6b5344"/>
+      <stop offset="30%" stop-color="#5c4638"/>
+      <stop offset="60%" stop-color="#4a3a2e"/>
+      <stop offset="100%" stop-color="#3d3025"/>
+    </linearGradient>
+    <linearGradient id="floor-wood-dark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a2218"/>
+      <stop offset="50%" stop-color="#1f1a14"/>
+      <stop offset="100%" stop-color="#151210"/>
+    </linearGradient>
+    <!-- Floor grain: horizontal lines only, clearly visible on wood -->
+    <g id="floor-grain-light" stroke-linecap="round">
+      <line x1="0" y1="0" x2="60" y2="1" stroke="#2d2218" stroke-width="0.65" opacity="0.7"/>
+      <line x1="-1" y1="5" x2="61" y2="6" stroke="#352a20" stroke-width="0.55" opacity="0.65"/>
+      <line x1="0" y1="10" x2="60" y2="11" stroke="#2d2218" stroke-width="0.6" opacity="0.7"/>
+      <line x1="0" y1="15" x2="60" y2="16" stroke="#3d3025" stroke-width="0.55" opacity="0.65"/>
+      <line x1="0" y1="20" x2="60" y2="21" stroke="#2d2218" stroke-width="0.65" opacity="0.7"/>
+      <line x1="-1" y1="25" x2="61" y2="26" stroke="#352a20" stroke-width="0.55" opacity="0.65"/>
+      <line x1="0" y1="30" x2="60" y2="31" stroke="#2d2218" stroke-width="0.6" opacity="0.7"/>
+    </g>
+    <g id="floor-grain-dark" stroke-linecap="round">
+      <line x1="0" y1="0" x2="60" y2="1" stroke="#0a0806" stroke-width="0.65" opacity="0.75"/>
+      <line x1="-1" y1="5" x2="61" y2="6" stroke="#110d0a" stroke-width="0.55" opacity="0.7"/>
+      <line x1="0" y1="10" x2="60" y2="11" stroke="#0a0806" stroke-width="0.6" opacity="0.75"/>
+      <line x1="0" y1="15" x2="60" y2="16" stroke="#151210" stroke-width="0.55" opacity="0.7"/>
+      <line x1="0" y1="20" x2="60" y2="21" stroke="#0a0806" stroke-width="0.65" opacity="0.75"/>
+      <line x1="-1" y1="25" x2="61" y2="26" stroke="#110d0a" stroke-width="0.55" opacity="0.7"/>
+      <line x1="0" y1="30" x2="60" y2="31" stroke="#0a0806" stroke-width="0.6" opacity="0.75"/>
+    </g>
+    <!-- Floor = wood color + grain only (no separate solid floor); perspective by scale -->
+    <pattern id="floor-texture-light-far" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(0.4)">
+      <rect x="0" y="0" width="48" height="32" fill="#4a3a2e"/>
+      <use href="#floor-grain-light"/>
+    </pattern>
+    <pattern id="floor-texture-light-mid" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(0.75)">
+      <rect x="0" y="0" width="48" height="32" fill="#4a3a2e"/>
+      <use href="#floor-grain-light"/>
+    </pattern>
+    <pattern id="floor-texture-light-near" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(1.4)">
+      <rect x="0" y="0" width="48" height="32" fill="#3d3025"/>
+      <use href="#floor-grain-light"/>
+    </pattern>
+    <pattern id="floor-texture-dark-far" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(0.4)">
+      <rect x="0" y="0" width="48" height="32" fill="#1f1a14"/>
+      <use href="#floor-grain-dark"/>
+    </pattern>
+    <pattern id="floor-texture-dark-mid" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(0.75)">
+      <rect x="0" y="0" width="48" height="32" fill="#1f1a14"/>
+      <use href="#floor-grain-dark"/>
+    </pattern>
+    <pattern id="floor-texture-dark-near" patternUnits="userSpaceOnUse" width="48" height="32" patternTransform="scale(1.4)">
+      <rect x="0" y="0" width="48" height="32" fill="#151210"/>
+      <use href="#floor-grain-dark"/>
+    </pattern>
+  </defs>
+  <!-- ============================================================ -->
+  <!-- SECTION 2: SCENE — background, floor, whiteboard, desk,     -->
+  <!--            character (4 outfits), laptop, accessories        -->
+  <!-- ============================================================ -->
+  <g class="st5">
+    <g id="Layer_11">
+      <!-- 2a: Scene background -->
+      <rect class="scene-bg" x="0" y="-72" width="779.93" height="622" rx="24" ry="24"/>
+      <rect class="scene-bg scene-bg-pulse anim-bg-pulse" x="0" y="-72" width="779.93" height="622" rx="24" ry="24"/>
+      <!-- Wall color tint per persona (wall only, above floor at y=340) -->
+      <rect class="wall-programmer" x="0" y="-72" width="779.93" height="412" fill="#b8ccec"/>
+      <rect class="wall-architect"  x="0" y="-72" width="779.93" height="412" fill="#b0d4b8"/>
+      <rect class="wall-business"   x="0" y="-72" width="779.93" height="412" fill="#eecf7a"/>
+      <rect class="wall-author"     x="0" y="-72" width="779.93" height="412" fill="#e4b0c4"/>
+      <g id="wooden-floor" aria-label="Wooden floor">
+        <!-- Grainy floor in three bands (overlap slightly to avoid visible seam between bands) -->
+        <rect class="floor-texture-far" x="0" y="340" width="779.93" height="57" rx="0" ry="0"/>
+        <rect class="floor-texture-mid" x="0" y="394" width="779.93" height="82" rx="0" ry="0"/>
+        <rect class="floor-texture-near" x="0" y="471" width="779.93" height="100" rx="0" ry="0"/>
+      </g>
+      <!-- Full-SVG click target: clicking anywhere navigates to atishay.me -->
+      <a href="https://atishay.me" target="_blank">
+        <rect x="0" y="-72" width="779.93" height="622" fill="none" cursor="pointer"/>
+      </a>
+      <!-- Wall nameplate: Atishay Jain + cycling persona role -->
+      <a href="https://atishay.me" target="_blank">
+      <g id="wall-nameplate" cursor="pointer">
+        <!-- Deep cast shadow -->
+        <rect x="292" y="-58" width="232" height="58" rx="5" ry="5" fill="rgba(0,0,0,0.32)" transform="translate(5,7)"/>
+        <!-- Plate body: warm cream with dark wood-style frame -->
+        <rect x="292" y="-58" width="232" height="58" rx="5" ry="5" fill="#faf6ee" stroke="#1a0a02" stroke-width="3"/>
+        <!-- Inner frame inset -->
+        <rect x="298" y="-52" width="220" height="46" rx="3" ry="3" fill="none" stroke="#3a1a08" stroke-width="1" opacity="0.5"/>
+        <text x="410" y="-29" text-anchor="middle"
+              font-family="Georgia,'Times New Roman',serif"
+              font-size="23" font-weight="bold" letter-spacing="1.5"
+              fill="#1a0a02">Atishay Jain</text>
+        <!-- Role subtitle cycling per persona -->
+        <g class="role-programmer">
+          <text x="410" y="-11" text-anchor="middle"
+                font-family="'Courier New',Courier,monospace"
+                font-size="10" letter-spacing="4" fill="#1a6030">DEVELOPER</text>
+        </g>
+        <g class="role-architect">
+          <text x="410" y="-11" text-anchor="middle"
+                font-family="'Courier New',Courier,monospace"
+                font-size="10" letter-spacing="4" fill="#0e3a8a">ARCHITECT</text>
+        </g>
+        <g class="role-business">
+          <text x="410" y="-11" text-anchor="middle"
+                font-family="'Courier New',Courier,monospace"
+                font-size="10" letter-spacing="4" fill="#7a4a00">STRATEGIST</text>
+        </g>
+        <g class="role-author">
+          <text x="410" y="-11" text-anchor="middle"
+                font-family="'Courier New',Courier,monospace"
+                font-size="10" letter-spacing="4" fill="#6a2008">AUTHOR</text>
+        </g>
+      </g>
+      </a>
+      <!-- 2b: Whiteboard (left panel) -->
+      <g id="whiteboard-area">
+        <rect class="st28" x="112.88" y="131.34" width="66.12" height="142.22"/>
+        <g>
+          <path class="st17" d="M251.47,223.66H39.44V86.75c0-4.79,3.89-8.67,8.67-8.67h194.68c4.79,0,8.67,3.89,8.67,8.67v136.9h.01Z"/>
+          <path class="st17" d="M235.13,244.92H59.78c-10.1,0-18.31-8.2-18.31-18.31v-7.01h211.97v7.01c0,10.1-8.2,18.31-18.31,18.31Z"/>
+          <path class="st50" d="M258.89,86.75v136.91l-52.03-.83-54.46-.87-17.2-.28-55.04-.88-33.3-.53V86.75c0-4.78,3.88-8.66,8.67-8.66h194.68c4.8,0,8.68,3.88,8.68,8.66Z"/>
+          <rect class="st39" x="54.78" y="89.82" width="196.2" height="122.39" rx=".8" ry=".8"/>
+          <path class="st23" d="M240.54,244.92H65.19c-10.1,0-18.31-8.2-18.31-18.31v-7.01h211.97v7.01c0,10.1-8.2,18.31-18.31,18.31h0Z"/>
+        </g>
+        <path class="st23" d="M111.22,274.11h88.63c2.72,0,4.92-2.2,4.92-4.92h0c0-2.72-2.2-4.92-4.92-4.92h-88.63c-2.72,0-4.92,2.2-4.92,4.92h0c0,2.72,2.2,4.92,4.92,4.92Z"/>
+        <g>
+          <rect id="browser-chrome" class="st49" x="54.78" y="89.82" width="196.2" height="15.42" rx=".8" ry=".8" aria-label="Browser chrome"/>
+          <path id="browser-btn-close" class="st29" d="M78.34,97c0,1.86-1.47,3.37-3.29,3.37s-3.29-1.51-3.29-3.37,1.47-3.37,3.29-3.37,3.29,1.51,3.29,3.37Z" aria-label="Close button"/>
+          <ellipse id="browser-btn-minimize" class="st41" cx="87.04" cy="97" rx="3.29" ry="3.37" aria-label="Minimize button"/>
+          <ellipse id="browser-btn-maximize" class="st51" cx="99.04" cy="97" rx="3.29" ry="3.37" aria-label="Maximize button"/>
+          <!-- Programmer: VS Code dark theme -->
+          <g class="screen-programmer" clip-path="url(#whiteboard-clip)">
+            <rect fill="#1e1e2e" x="55" y="105" width="195" height="107"/>
+            <rect fill="#181825" x="55" y="105" width="12" height="107"/>
+            <rect fill="#cba6f7" x="70" y="116" width="18" height="3" rx="1"/>
+            <rect fill="#f9e2af" x="91" y="116" width="30" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="124" y="116" width="14" height="3" rx="1"/>
+            <rect fill="#89b4fa" x="70" y="123" width="20" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="93" y="123" width="24" height="3" rx="1"/>
+            <rect fill="#a6e3a1" x="120" y="123" width="34" height="3" rx="1"/>
+            <rect fill="#6c7086" x="70" y="130" width="60" height="3" rx="1"/>
+            <rect fill="#313244" x="55" y="136" width="195" height="7" opacity="0.8"/>
+            <rect fill="#cba6f7" x="78" y="138" width="14" height="3" rx="1"/>
+            <rect fill="#f38ba8" x="95" y="138" width="6" height="3" rx="1"/>
+            <rect fill="#a6e3a1" x="104" y="138" width="40" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="147" y="137" width="1.5" height="5"/>
+            <rect fill="#6c7086" x="70" y="144" width="6" height="3" rx="1"/>
+            <rect fill="#89b4fa" x="70" y="151" width="26" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="99" y="151" width="20" height="3" rx="1"/>
+            <rect fill="#f9e2af" x="122" y="151" width="28" height="3" rx="1"/>
+            <rect fill="#cba6f7" x="78" y="158" width="16" height="3" rx="1"/>
+            <rect fill="#89dceb" x="97" y="158" width="12" height="3" rx="1"/>
+            <rect fill="#a6e3a1" x="112" y="158" width="36" height="3" rx="1"/>
+            <rect fill="#6c7086" x="70" y="165" width="6" height="3" rx="1"/>
+            <rect fill="#89b4fa" x="70" y="172" width="22" height="3" rx="1"/>
+            <rect fill="#a6e3a1" x="95" y="172" width="30" height="3" rx="1"/>
+            <rect fill="#cba6f7" x="70" y="179" width="20" height="3" rx="1"/>
+            <rect fill="#f9e2af" x="93" y="179" width="35" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="131" y="179" width="18" height="3" rx="1"/>
+            <rect fill="#6c7086" x="70" y="186" width="58" height="3" rx="1"/>
+            <rect fill="#89b4fa" x="70" y="193" width="28" height="3" rx="1"/>
+            <rect fill="#cdd6f4" x="101" y="193" width="42" height="3" rx="1"/>
+            <rect fill="#6c7086" x="70" y="200" width="6" height="3" rx="1"/>
+            <rect fill="#cba6f7" x="70" y="207" width="18" height="3" rx="1"/>
+            <rect fill="#a6e3a1" x="91" y="207" width="30" height="3" rx="1"/>
+          </g>
+          <!-- Architect: System architecture diagram -->
+          <g class="screen-architect" clip-path="url(#whiteboard-clip)">
+            <rect fill="#ffffff" x="55" y="105" width="195" height="107"/>
+            <rect fill="#f1f3f4" x="55" y="105" width="195" height="15"/>
+            <rect fill="#9aa0a6" x="62" y="113" width="25" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="91" y="113" width="20" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="115" y="113" width="16" height="4" rx="1"/>
+            <rect fill="#202124" x="65" y="123" width="55" height="5" rx="1"/>
+            <rect fill="#9aa0a6" x="65" y="131" width="40" height="3" rx="1"/>
+            <rect fill="#e8f0fe" stroke="#4285f4" stroke-width="1" x="65" y="140" width="44" height="22" rx="3"/>
+            <rect fill="#4285f4" x="69" y="144" width="36" height="4" rx="1"/>
+            <rect fill="#8ab4f8" x="73" y="151" width="26" height="2.5" rx="1"/>
+            <rect fill="#8ab4f8" x="69" y="155.5" width="36" height="2.5" rx="1"/>
+            <line x1="110" y1="151" x2="118" y2="151" stroke="#5f6368" stroke-width="1.2"/>
+            <polygon fill="#5f6368" points="115,148 120,151 115,154"/>
+            <rect fill="#e6f4ea" stroke="#34a853" stroke-width="1" x="120" y="140" width="44" height="22" rx="3"/>
+            <rect fill="#34a853" x="124" y="144" width="36" height="4" rx="1"/>
+            <rect fill="#81c995" x="128" y="151" width="26" height="2.5" rx="1"/>
+            <rect fill="#81c995" x="124" y="155.5" width="36" height="2.5" rx="1"/>
+            <line x1="165" y1="151" x2="173" y2="151" stroke="#5f6368" stroke-width="1.2"/>
+            <polygon fill="#5f6368" points="170,148 175,151 170,154"/>
+            <rect fill="#fef7e0" stroke="#fbbc04" stroke-width="1" x="175" y="140" width="44" height="22" rx="3"/>
+            <rect fill="#fbbc04" x="179" y="144" width="36" height="4" rx="1"/>
+            <rect fill="#fdd663" x="179" y="151" width="28" height="2.5" rx="1"/>
+            <rect fill="#fdd663" x="179" y="155.5" width="20" height="2.5" rx="1"/>
+            <line x1="142" y1="163" x2="142" y2="170" stroke="#5f6368" stroke-width="1.2"/>
+            <polygon fill="#5f6368" points="139,170 142,175 145,170"/>
+            <rect fill="#fce8e6" stroke="#ea4335" stroke-width="1" x="120" y="175" width="44" height="22" rx="3"/>
+            <rect fill="#ea4335" x="124" y="179" width="36" height="4" rx="1"/>
+            <rect fill="#e57368" x="128" y="186" width="28" height="2.5" rx="1"/>
+            <rect fill="#e57368" x="128" y="190.5" width="20" height="2.5" rx="1"/>
+          </g>
+          <!-- Business: Analytics dashboard -->
+          <g class="screen-business" clip-path="url(#whiteboard-clip)">
+            <rect fill="#f8f9fa" x="55" y="105" width="195" height="107"/>
+            <rect fill="#202124" x="55" y="105" width="195" height="18"/>
+            <rect fill="#4285f4" x="62" y="113" width="22" height="7" rx="1.5"/>
+            <rect fill="#5f6368" x="90" y="114" width="16" height="3" rx="1"/>
+            <rect fill="#5f6368" x="112" y="114" width="14" height="3" rx="1"/>
+            <rect fill="#5f6368" x="132" y="114" width="18" height="3" rx="1"/>
+            <rect fill="#ffffff" x="63" y="128" width="55" height="34" rx="3"/>
+            <rect fill="#34a853" x="68" y="133" width="8" height="8" rx="1"/>
+            <rect fill="#202124" x="80" y="133" width="28" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="80" y="140" width="20" height="3" rx="1"/>
+            <rect fill="#34a853" x="68" y="147" width="40" height="6" rx="1.5"/>
+            <rect fill="#137333" x="68" y="156" width="16" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="87" y="157" width="18" height="2" rx="1"/>
+            <rect fill="#ffffff" x="124" y="128" width="55" height="34" rx="3"/>
+            <rect fill="#4285f4" x="129" y="133" width="8" height="8" rx="1"/>
+            <rect fill="#202124" x="141" y="133" width="28" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="141" y="140" width="20" height="3" rx="1"/>
+            <rect fill="#4285f4" x="129" y="147" width="40" height="6" rx="1.5"/>
+            <rect fill="#185abc" x="129" y="156" width="16" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="148" y="157" width="18" height="2" rx="1"/>
+            <rect fill="#ffffff" x="63" y="167" width="116" height="38" rx="3"/>
+            <rect fill="#9aa0a6" x="68" y="170" width="30" height="3" rx="1"/>
+            <rect fill="#4285f4" x="71" y="177" width="9" height="23"/>
+            <rect fill="#4285f4" x="83" y="182" width="9" height="18"/>
+            <rect fill="#4285f4" x="95" y="174" width="9" height="26"/>
+            <rect fill="#4285f4" x="107" y="179" width="9" height="21"/>
+            <rect fill="#34a853" x="119" y="170" width="9" height="30"/>
+            <rect fill="#34a853" x="131" y="175" width="9" height="25"/>
+            <line x1="67" y1="200" x2="165" y2="200" stroke="#dadce0" stroke-width="0.8"/>
+          </g>
+          <!-- Author: Article / writing dashboard -->
+          <g class="screen-author" clip-path="url(#whiteboard-clip)">
+            <rect fill="#ffffff" x="55" y="105" width="195" height="107"/>
+            <rect fill="#e8eaed" x="55" y="120" width="195" height="1"/>
+            <rect fill="#202124" x="65" y="113" width="18" height="5" rx="1"/>
+            <rect fill="#4285f4" x="90" y="113" width="18" height="5" rx="1.5"/>
+            <rect fill="#9aa0a6" x="178" y="113" width="20" height="5" rx="1"/>
+            <rect fill="#f8f9fa" x="55" y="121" width="44" height="91"/>
+            <rect fill="#e8eaed" x="99" y="121" width="1" height="91"/>
+            <rect fill="#4285f4" x="61" y="128" width="30" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="136" width="28" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="143" width="24" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="150" width="28" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="157" width="22" height="3" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="164" width="26" height="3" rx="1"/>
+            <rect fill="#e8eaed" x="61" y="180" width="30" height="4" rx="1"/>
+            <rect fill="#34a853" x="61" y="180" width="22" height="4" rx="1"/>
+            <rect fill="#9aa0a6" x="61" y="187" width="30" height="2.5" rx="1"/>
+            <rect fill="#202124" x="107" y="128" width="100" height="6" rx="1"/>
+            <rect fill="#9aa0a6" x="107" y="138" width="58" height="3" rx="1"/>
+            <rect fill="#dadce0" x="107" y="144" width="130" height="1"/>
+            <rect fill="#3c4043" x="107" y="149" width="132" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="155" width="128" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="161" width="130" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="167" width="116" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="173" width="130" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="179" width="120" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="185" width="128" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="191" width="98" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="197" width="130" height="3" rx="1"/>
+            <rect fill="#3c4043" x="107" y="203" width="112" height="3" rx="1"/>
+          </g>
+        </g>
+        <polygon class="st7" points="218.09 78.09 152.4 219.8 80.16 219.8 145.33 78.09 218.09 78.09"/>
+      </g>
+      <!-- 2d: Character — head, hair, facial features -->
+      <g id="character-head" class="anim-chair-lean" aria-label="Character head" style="transform-origin: 248px 388px">
+        <path id="hair-front" class="st62 anim-hair-sway" style="transform-origin: 255px 12px" d="M265.54,7.55l10.67,8.4c7.73,6.09,10.49,18.7,6.37,29-.82,2.05-1.33,3.37-1.23,3.22.4-.59-16.35-40.45-16.35-40.45"/>
+        <path id="hair-stray" class="st2 anim-hair-sway" style="transform-origin: 266px 10px" d="M268,11 l3,2 -1,10 -2,1 -1,-11 z" fill="#2c1810" opacity=".88"/>
+        <rect id="character-ear" class="st31" x="211.62" y="80.93" width="30.45" height="56.44" rx="11.72" ry="11.72"/>
+        <path id="hair-top" class="st2" d="M285.55,48.17c.31,2.66-12.14,7.15-12.29,9.96l2.03,5.63c-15.3-5.55-1.8,2.91-1.8,2.93-4.54,13.48-2.96,20.94-15.94,26.07-6.47,2.55-13.56,3.73-20.95,3.2-9.92-.69-18.73,2.41-25.93-1.03-1.49-.69-2.89-1.67-4.23-2.99-2.53-2.53-4.79-5.32-6.7-8.33-.73-1.19-1.44-2.39-2.09-3.64-3.91-7.56-11.92-29.74-11.27-38.85C188.17,15.41,212.79-1.8,241.13.15c.73.05,1.44.06,2.18.1,15.3,1.07,28.38,9.19,36.38,20.97.42.63.84,1.28,1.23,1.93v.02c2.3,3.75,3.54,19.78,3.54,19.78.52,1.7.88,3.43,1.09,5.21h0Z"/>
+        <path id="character-face-skin" class="st10" d="M284.41,56.39l-.36,7.05-.61,11.7-.95,4.15c-.08,1.84-1.02,11.53-1.35,13.29-3.22,16.56-14.1,20.07-30.97,22.17-.5.08-1.03.13-1.53.15-1.8.19-3.62.21-5.48.13-1.8-.08-3.56-.31-5.3-.65-3.37-.61-6.61-1.67-9.61-3.1,0,0-.02,0-.04-.02-7.45-3.52-13.59-9.27-17.56-16.33-3.03-5.34-4.84-11.41-5.02-17.83-.02-.44-.02-.88-.02-1.34-.02-.5,0-1.05.04-1.59v-.27l.04-1.28.19-3.33.56-11.49.02-.1v-.02l.11-2.13.08-1.65.08-1.53.02-.4c.17-2.66.69-5.21,1.49-7.66.5-1.74,1.15-3.41,1.88-5.02.11-.25.19-.48.31-.73.59-1.32,1.28-2.64,2.03-3.87v-.02c2.85-4.75,6.66-8.85,11.18-12.01.9-.65,1.84-1.26,2.78-1.82,6.57-3.85,14.32-5.92,22.46-5.51,6.78.36,11.79,2.39,17.26,5.67,3.31,1.99,6.3,4.44,8.87,7.26,3.66,3.98,6.05,8.67,7.81,13.84.11.29.19.59.27.88.52,1.7.88,3.43,1.09,5.21.31,2.66.36,5.42.21,8.23h0l.02-.03Z"/>
+        <path id="hair" class="st2" d="M270.16,21.42c8.28,22.8-13.51,20.95-14.53,31.42-.11,1.18-.53,2.91-.84,11.49l-1.66,5.36c-.48,1.67-2.03,2.83-3.77,2.83-2.18,0-3.93-1.76-3.93-3.93v-.1l.19-8.54-4.25,11.26c-3.06,8.12-7.7,15.47-13.56,21.66-4.88,5.13-10.59,9.48-16.93,12.79,0,0-26.58-15.8-26.58-51.89,0-2.87.17-5.86.52-8.98.34-2.81.8-5.42,1.42-7.87,11.01-44.84,66.1-29.53,71.4-27.55,5.57,2.09,12.54,12.06,12.54,12.06h-.02Z"/>
+        <path id="character-brow" class="st2" d="M284.58,54.84h-1.83c-1.37,0-12.53,1.37-12.53,0h0c0-1.37,8.66-2.49,10.03-2.49h4.23c1.37,0,2.49,1.12,2.49,2.49h0c0,1.37-1.01,0-2.38,0h-.01Z"/>
+        <path id="character-eye" class="st36 anim-eye-twitch" d="M279.6,66.12h0c-1.22,0-2.22-1-2.22-2.22v-3.26c0-1.22,1-2.22,2.22-2.22h0c1.22,0,2.22,1,2.22,2.22v3.26c0,1.22-1,2.22-2.22,2.22Z" style="transform-origin: 279.6px 66.12px"/>
+        <path id="glasses-frame-left" class="st24" d="M276.2,57.3h6.6c.93,0,1.4.53,1.4,1.6v8.2c0,1.07-.47,1.6-1.4,1.6h-6.6c-1.47,0-2.33-1.57-2.6-4.7.27-4.47,1.13-6.7,2.6-6.7Z"/>
+        <path id="glasses-lens-left" class="st35" d="M276.5,57.6h6c.87,0,1.3.47,1.3,1.4v7.8c0,.93-.43,1.4-1.3,1.4h-6c-1,0-1.57-1.4-1.7-4.2.13-4.27.7-6.4,1.7-6.4Z"/>
+        <ellipse id="glasses-lens-highlight" class="st40" cx="280.6" cy="59.9" rx="1.5" ry="1"/>
+        <path id="glasses-bridge" class="st24" d="M273.6,64l-35.6,3.7"/>
+        <path id="hair-shade" class="st4" d="M227.8,92.86c-4.88,5.13-10.59,9.48-16.93,12.79,0,0-26.58-15.8-26.58-51.89,0-2.87.17-5.86.52-8.98.34-2.81.8-5.42,1.42-7.87,1.17,6.87,4.27,17.27,12.18,30.12,12.04,19.55,25.1,24.64,29.39,25.83Z"/>
+        <path id="character-ear-path" class="st31" d="M244.46,57.07c1.63,0,2.94,1.34,2.93,2.96l-.07,10.03-.07,8.76-3.44-.02c-.25,0-.5,0-.74-.05-5.76-.44-10.3-5.47-10.27-11.22,0-2.99,1.28-5.53,3.3-7.5,1.81-1.76,4.25-2.77,6.95-2.92h.02c.31-.05.58-.06.89-.04h.51,0Z" aria-label="Ear (not part of dress)"/>
+        <!-- Facial hair: moustache (upper lip) and beard (goatee) -->
+        <g id="character-facial-hair" aria-label="Facial hair">
+          <g id="moustache" aria-label="Moustache">
+            <path id="moustache-path" class="st1" fill-rule="evenodd" d="M265,87.86c-5.25,1.35-6.04,3.11-6.11,3.49l.18,4.15s-.18-2.26-.18-2.24c.2,7.9.06,4.37.9,11.68.02.18,2.14,5.77,2.26,5.9,2.58,2.64,3.19,4.27,7.4,4.83h.23c4.14-.54,7.49-1.67,10.06-3.38.2-.14.33-.36.34-.61l2.5-25.5c0-1.85-4.52-.38-9.87.22"/>
+          </g>
+          <g id="lips" aria-label="Lips">
+            <path id="lips-path" fill="#ffc7b0" fill-rule="evenodd" d="M264.18,91.57c4.37-.56,12.67-1.95,17.05-1.39v5.28c-4.37.37-12.67-2.36-17.05-2.74v-1.16h0Z"/>
+          </g>
+        </g>
+        <path id="desk" class="st10" d="M289.1,80.56v.59c-.07,2.47-2.21,4.43-7.5,4.27l.74-19.26c4.3,6.55,6.38,10.36,6.77,14.39h0Z"/>
+      </g>
+      <g>
+          <rect class="st36" x="141.08" y="350.31" width="92.6" height="17.07"/>
+          <rect class="st27" x="495.15" y="351.75" width="84.82" height="17.07"/>
+          <rect class="st27" x="566.33" y="293.69" width="19.29" height="240.46"/>
+          <rect class="st57" x="488.86" y="292.25" width="19.29" height="241.9"/>
+          <rect class="st27" x="488.86" y="282.49" width="19.29" height="103.21"/>
+          <rect class="st27" x="32.49" y="351.75" width="84.82" height="17.07"/>
+          <rect class="st27" x="103.66" y="293.69" width="19.29" height="240.46"/>
+          <rect class="st27" x="26.19" y="292.25" width="19.29" height="241.9"/>
+          <!-- 2c: Desk monitors + screen content per persona -->
+          <g id="desk-monitors" aria-label="Desk monitors">
+            <rect id="small-monitor-screen" class="st12" x="383.14" y="132.17" width="63.67" height="136.96"/>
+            <g id="main-monitor">
+              <g id="main-monitor-bezel">
+                <path class="st33" d="M313.57,87.96h192.6c4.61,0,8.35,3.74,8.35,8.35v127.84h-209.31v-127.84c0-4.61,3.74-8.35,8.35-8.35h0Z"/>
+                <path class="st33" d="M303.25,220.24h209.26v6.75c0,9.73-7.9,17.63-17.63,17.63h-173.99c-9.73,0-17.63-7.9-17.63-17.63v-6.75h-.01Z"/>
+                <path class="st30" d="M507.32,96.3v127.85h-209.31v-127.85c0-4.61,3.74-8.34,8.35-8.34h192.61c4.61,0,8.35,3.73,8.35,8.34h0Z"/>
+                <path class="st16" d="M499.7,96.04v116.32c0,.42-.35.77-.78.77h-192.52c-.42,0-.77-.35-.77-.77v-116.32c0-.43.35-.77.77-.77h192.52c.43,0,.78.34.78.77h0Z"/>
+                <path class="st53" d="M507.3,220.24v6.75c0,7.08-4.17,13.19-10.19,15.99-2.26,1.06-4.79,1.65-7.45,1.65h-173.99c-9.74,0-17.63-7.9-17.63-17.64v-6.75h209.26Z"/>
+              </g>
+              <g id="monitor-code-area" clip-path="url(#code-scroll-clip)">
+                <g id="monitor-code-scroll" class="anim-code-scroll screen-programmer" style="transform-origin: 400px 140px">
+                  <g>
+                    <rect class="st49" x="316.86" y="109.63" width="65.03" height="2.25"/>
+                    <rect class="st33" x="410.09" y="109.63" width="30.79" height="2.25"/>
+                    <rect class="st41" x="454.54" y="109.63" width="30.79" height="2.25"/>
+                    <rect class="st49" x="443.62" y="109.63" width="7.28" height="2.25"/>
+                    <rect class="st29" x="384.94" y="109.63" width="21.58" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st49" x="316.86" y="167.26" width="65.03" height="2.25"/>
+                    <rect class="st33" x="410.09" y="167.26" width="30.79" height="2.25"/>
+                    <rect class="st41" x="454.54" y="167.26" width="30.79" height="2.25"/>
+                    <rect class="st49" x="443.62" y="167.26" width="7.28" height="2.25"/>
+                    <rect class="st23" x="384.94" y="167.26" width="21.58" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st49" x="420.3" y="148.05" width="65.03" height="2.25"/>
+                    <rect class="st33" x="361.32" y="148.05" width="30.79" height="2.25"/>
+                    <rect class="st41" x="316.86" y="148.05" width="30.79" height="2.25"/>
+                    <rect class="st49" x="351.29" y="148.05" width="7.28" height="2.25"/>
+                    <rect class="st23" x="395.67" y="148.05" width="21.58" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st29" x="316.86" y="119.24" width="24.39" height="2.25"/>
+                    <rect class="st49" x="389.77" y="119.24" width="10.47" height="2.25"/>
+                    <rect class="st33" x="434.22" y="119.24" width="51.11" height="2.25"/>
+                    <rect class="st49" x="402.97" y="119.24" width="27.6" height="2.25"/>
+                    <rect class="st49" x="344.3" y="119.24" width="41.9" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st49" x="316.86" y="176.86" width="24.39" height="2.25"/>
+                    <rect class="st49" x="389.77" y="176.86" width="10.47" height="2.25"/>
+                    <rect class="st49" x="434.22" y="176.86" width="51.11" height="2.25"/>
+                    <rect class="st49" x="402.97" y="176.86" width="27.6" height="2.25"/>
+                    <rect class="st49" x="344.3" y="176.86" width="41.9" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st29" x="316.86" y="157.65" width="24.39" height="2.25"/>
+                    <rect class="st49" x="389.77" y="157.65" width="10.47" height="2.25"/>
+                    <rect class="st33" x="434.22" y="157.65" width="51.11" height="2.25"/>
+                    <rect class="st49" x="402.97" y="157.65" width="27.6" height="2.25"/>
+                    <rect class="st49" x="344.3" y="157.65" width="41.9" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st33" x="316.86" y="128.84" width="24.39" height="2.25"/>
+                    <rect class="st49" x="344.3" y="128.84" width="41.9" height="2.25"/>
+                  </g>
+                  <g>
+                    <rect class="st33" x="361.81" y="138.44" width="24.39" height="2.25"/>
+                    <rect class="st49" x="316.86" y="138.44" width="41.9" height="2.25"/>
+                  </g>
+                  <g transform="translate(0,78)">
+                    <g>
+                      <rect class="st49" x="316.86" y="109.63" width="65.03" height="2.25"/>
+                      <rect class="st33" x="410.09" y="109.63" width="30.79" height="2.25"/>
+                      <rect class="st41" x="454.54" y="109.63" width="30.79" height="2.25"/>
+                      <rect class="st49" x="443.62" y="109.63" width="7.28" height="2.25"/>
+                      <rect class="st29" x="384.94" y="109.63" width="21.58" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st49" x="316.86" y="167.26" width="65.03" height="2.25"/>
+                      <rect class="st33" x="410.09" y="167.26" width="30.79" height="2.25"/>
+                      <rect class="st41" x="454.54" y="167.26" width="30.79" height="2.25"/>
+                      <rect class="st49" x="443.62" y="167.26" width="7.28" height="2.25"/>
+                      <rect class="st23" x="384.94" y="167.26" width="21.58" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st49" x="420.3" y="148.05" width="65.03" height="2.25"/>
+                      <rect class="st33" x="361.32" y="148.05" width="30.79" height="2.25"/>
+                      <rect class="st41" x="316.86" y="148.05" width="30.79" height="2.25"/>
+                      <rect class="st49" x="351.29" y="148.05" width="7.28" height="2.25"/>
+                      <rect class="st23" x="395.67" y="148.05" width="21.58" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st29" x="316.86" y="119.24" width="24.39" height="2.25"/>
+                      <rect class="st49" x="389.77" y="119.24" width="10.47" height="2.25"/>
+                      <rect class="st33" x="434.22" y="119.24" width="51.11" height="2.25"/>
+                      <rect class="st49" x="402.97" y="119.24" width="27.6" height="2.25"/>
+                      <rect class="st49" x="344.3" y="119.24" width="41.9" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st49" x="316.86" y="176.86" width="24.39" height="2.25"/>
+                      <rect class="st49" x="389.77" y="176.86" width="10.47" height="2.25"/>
+                      <rect class="st49" x="434.22" y="176.86" width="51.11" height="2.25"/>
+                      <rect class="st49" x="402.97" y="176.86" width="27.6" height="2.25"/>
+                      <rect class="st49" x="344.3" y="176.86" width="41.9" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st29" x="316.86" y="157.65" width="24.39" height="2.25"/>
+                      <rect class="st49" x="389.77" y="157.65" width="10.47" height="2.25"/>
+                      <rect class="st33" x="434.22" y="157.65" width="51.11" height="2.25"/>
+                      <rect class="st49" x="402.97" y="157.65" width="27.6" height="2.25"/>
+                      <rect class="st49" x="344.3" y="157.65" width="41.9" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st33" x="316.86" y="128.84" width="24.39" height="2.25"/>
+                      <rect class="st49" x="344.3" y="128.84" width="41.9" height="2.25"/>
+                    </g>
+                    <g>
+                      <rect class="st33" x="361.81" y="138.44" width="24.39" height="2.25"/>
+                      <rect class="st49" x="316.86" y="138.44" width="41.9" height="2.25"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <!-- Architect: architecture flowchart on dark screen -->
+              <!-- Architect: scrolling architecture flowchart (seamless loop) -->
+              <g id="screen-content-architect" class="screen-architect" clip-path="url(#code-scroll-clip)">
+                <rect fill="#0e1820" x="314" y="109" width="184" height="92"/>
+                <g class="anim-flowchart-scroll">
+                  <!-- Copy 1: y=109–187, centered at x=413 (47px margins each side) -->
+                  <!-- Node 1 (blue process box) -->
+                  <rect fill="#1a4060" stroke="#4a9eed" stroke-width="0.8" x="371" y="109" width="84" height="16" rx="2"/>
+                  <rect fill="#4a9eed" x="377" y="112" width="44" height="4" rx="1"/>
+                  <rect fill="#3a82cc" x="377" y="118" width="28" height="3" rx="1"/>
+                  <!-- Arrow down -->
+                  <line x1="413" y1="125" x2="413" y2="131" stroke="#6aadee" stroke-width="0.8"/>
+                  <polygon fill="#6aadee" points="410,130 413,134 416,130"/>
+                  <!-- Diamond decision -->
+                  <polygon fill="#0e2438" stroke="#4a9eed" stroke-width="0.8" points="413,134 437,144 413,154 389,144"/>
+                  <rect fill="#9ac4e8" x="399" y="141" width="28" height="3" rx="1"/>
+                  <!-- Arrow down from diamond -->
+                  <line x1="413" y1="154" x2="413" y2="160" stroke="#6aadee" stroke-width="0.8"/>
+                  <polygon fill="#6aadee" points="410,159 413,163 416,159"/>
+                  <!-- Node 2 (green result box) -->
+                  <rect fill="#1a3828" stroke="#4aee88" stroke-width="0.8" x="371" y="163" width="84" height="16" rx="2"/>
+                  <rect fill="#4aee88" x="377" y="166" width="44" height="4" rx="1"/>
+                  <rect fill="#3acc70" x="377" y="172" width="28" height="3" rx="1"/>
+                  <!-- Continuation dash -->
+                  <line x1="413" y1="179" x2="413" y2="187" stroke="#6aadee" stroke-width="0.7" stroke-dasharray="2,2"/>
+
+                  <!-- Copy 2: +78px — seamless loop -->
+                  <rect fill="#1a4060" stroke="#4a9eed" stroke-width="0.8" x="371" y="187" width="84" height="16" rx="2"/>
+                  <rect fill="#4a9eed" x="377" y="190" width="44" height="4" rx="1"/>
+                  <rect fill="#3a82cc" x="377" y="196" width="28" height="3" rx="1"/>
+                  <line x1="413" y1="203" x2="413" y2="209" stroke="#6aadee" stroke-width="0.8"/>
+                  <polygon fill="#6aadee" points="410,208 413,212 416,208"/>
+                  <polygon fill="#0e2438" stroke="#4a9eed" stroke-width="0.8" points="413,212 437,222 413,232 389,222"/>
+                  <rect fill="#9ac4e8" x="399" y="219" width="28" height="3" rx="1"/>
+                  <line x1="413" y1="232" x2="413" y2="238" stroke="#6aadee" stroke-width="0.8"/>
+                  <polygon fill="#6aadee" points="410,237 413,241 416,237"/>
+                  <rect fill="#1a3828" stroke="#4aee88" stroke-width="0.8" x="371" y="241" width="84" height="16" rx="2"/>
+                  <rect fill="#4aee88" x="377" y="244" width="44" height="4" rx="1"/>
+                  <rect fill="#3acc70" x="377" y="250" width="28" height="3" rx="1"/>
+                  <line x1="413" y1="257" x2="413" y2="265" stroke="#6aadee" stroke-width="0.7" stroke-dasharray="2,2"/>
+                </g>
+              </g>
+              <!-- Business: PowerPoint slides with bar chart and pie chart (page flip) -->
+              <g id="screen-content-business" class="screen-business" clip-path="url(#code-scroll-clip)">
+                <!-- Slide 1: bar chart -->
+                <g class="ppt-slide-1">
+                  <rect fill="#1e2a3e" x="314" y="109" width="184" height="92"/>
+                  <rect fill="#2c4a8e" x="314" y="109" width="184" height="18"/>
+                  <rect fill="#ffffff" x="322" y="112" width="88" height="7" rx="1"/>
+                  <rect fill="rgba(255,255,255,0.4)" x="322" y="121" width="55" height="4" rx="1"/>
+                  <line x1="326" y1="193" x2="480" y2="193" stroke="#5a6a8a" stroke-width="0.8"/>
+                  <rect fill="#4a9eed" x="330" y="155" width="22" height="38"/>
+                  <rect fill="#ea5444" x="360" y="163" width="22" height="30"/>
+                  <rect fill="#ffbe62" x="390" y="158" width="22" height="35"/>
+                  <rect fill="#65b15b" x="420" y="161" width="22" height="32"/>
+                  <rect fill="#9b59b6" x="450" y="149" width="22" height="44"/>
+                  <rect fill="rgba(74,158,237,0.3)" x="330" y="153" width="22" height="2"/>
+                  <rect fill="rgba(234,84,68,0.3)" x="360" y="161" width="22" height="2"/>
+                  <rect fill="rgba(255,190,98,0.3)" x="390" y="156" width="22" height="2"/>
+                  <rect fill="rgba(101,177,91,0.3)" x="420" y="159" width="22" height="2"/>
+                  <rect fill="rgba(155,89,182,0.3)" x="450" y="147" width="22" height="2"/>
+                </g>
+                <!-- Slide 2: pie chart / metrics -->
+                <g class="ppt-slide-2">
+                  <rect fill="#1e2a3e" x="314" y="109" width="184" height="92"/>
+                  <rect fill="#8e2c2c" x="314" y="109" width="184" height="18"/>
+                  <rect fill="#ffffff" x="322" y="112" width="75" height="7" rx="1"/>
+                  <rect fill="rgba(255,255,255,0.4)" x="322" y="121" width="50" height="4" rx="1"/>
+                  <circle cx="375" cy="165" r="26" fill="none" stroke="#4a9eed" stroke-width="12" stroke-dasharray="40 44" stroke-dashoffset="0"/>
+                  <circle cx="375" cy="165" r="26" fill="none" stroke="#ea5444" stroke-width="12" stroke-dasharray="24 60" stroke-dashoffset="-40"/>
+                  <circle cx="375" cy="165" r="26" fill="none" stroke="#65b15b" stroke-width="12" stroke-dasharray="20 64" stroke-dashoffset="-64"/>
+                  <circle cx="375" cy="165" r="12" fill="#1e2a3e"/>
+                  <rect fill="#4a9eed" x="415" y="140" width="8" height="8" rx="1"/>
+                  <rect fill="#aac8e8" x="426" y="142" width="60" height="4" rx="1"/>
+                  <rect fill="#ea5444" x="415" y="155" width="8" height="8" rx="1"/>
+                  <rect fill="#aac8e8" x="426" y="157" width="50" height="4" rx="1"/>
+                  <rect fill="#65b15b" x="415" y="170" width="8" height="8" rx="1"/>
+                  <rect fill="#aac8e8" x="426" y="172" width="55" height="4" rx="1"/>
+                  <rect fill="#aac8e8" x="415" y="185" width="75" height="4" rx="1"/>
+                  <rect fill="#aac8e8" x="415" y="191" width="55" height="4" rx="1"/>
+                </g>
+              </g>
+              <!-- Author: seamless scrolling manuscript (two copies stacked 62px apart) -->
+              <g id="screen-content-author" class="screen-author" clip-path="url(#code-scroll-clip)">
+                <!-- Fixed background + title bar -->
+                <rect fill="#f5f0e8" x="314" y="109" width="184" height="92"/>
+                <rect fill="#e0d8c8" x="314" y="109" width="184" height="11"/>
+                <rect fill="#3a3020" x="338" y="112" width="62" height="4" rx="1"/>
+                <rect fill="#8a7a60" x="406" y="112" width="40" height="4" rx="1"/>
+                <!-- Scrolling text – two copies, 62px apart for seamless loop -->
+                <g class="anim-doc-scroll">
+                  <!-- Copy 1: y=121 to y=183 -->
+                  <rect fill="#3a3a3a" x="320" y="121" width="168" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="129" width="150" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="137" width="162" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="145" width="136" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="155" width="164" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="163" width="145" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="171" width="160" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="179" width="90" height="4" rx="1"/>
+                  <!-- Copy 2: exactly +62px for seamless loop -->
+                  <rect fill="#3a3a3a" x="320" y="183" width="152" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="191" width="168" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="199" width="140" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="207" width="160" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="217" width="168" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="225" width="148" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="233" width="158" height="4" rx="1"/>
+                  <rect fill="#3a3a3a" x="320" y="241" width="95" height="4" rx="1"/>
+                </g>
+              </g>
+            </g>
+            <path class="st20" d="M359.99,263.25h85.35c2.62,0,4.74,2.12,4.74,4.74h0c0,2.62-2.12,4.74-4.74,4.74h-85.35c-2.62,0-4.74-2.12-4.74-4.74h0c0-2.62,2.12-4.74,4.74-4.74Z"/>
+          </g>
+          <path class="st56" d="M340.63,271.97h253.86c4.21,0,7.62,3.42,7.62,7.62v13.91h-269.11v-13.91c0-4.21,3.42-7.62,7.62-7.62h.01Z"/>
+          <g id="desk-surface-detail">
+            <path class="st58" d="M523.67,279.6v13.91H5.56v-13.91c0-4.21,3.41-7.63,7.62-7.63h502.87c4.21,0,7.62,3.42,7.62,7.63Z"/>
+            <path class="st18" d="M373.76,271.97c-4.11,6.7-9.01,14.69-13.2,21.54h-126.76l1.73-21.54h138.23Z"/>
+          </g>
+          <g id="cabinet">
+            <rect class="st38" x="629.04" y="367.31" width="133.14" height="166.84"/>
+            <rect class="st11" x="581.86" y="367.31" width="130.85" height="166.84"/>
+            <g>
+              <rect class="st14" x="580.36" y="379.8" width="124.12" height="45.14"/>
+              <rect class="st14" x="580.36" y="432.77" width="124.12" height="45.14"/>
+              <rect class="st14" x="580.36" y="485.73" width="124.12" height="48.42"/>
+            </g>
+            <g>
+              <path class="st39" d="M619.86,404.79h31.03c1.33,0,2.42-1.09,2.42-2.42h0c0-1.33-1.09-2.42-2.42-2.42h-31.03c-1.33,0-2.42,1.09-2.42,2.42h0c0,1.33,1.09,2.42,2.42,2.42Z"/>
+              <path class="st39" d="M618.65,457.38h31.03c1.33,0,2.42-1.09,2.42-2.42h0c0-1.33-1.09-2.42-2.42-2.42h-31.03c-1.33,0-2.42,1.09-2.42,2.42h0c0,1.33,1.09,2.42,2.42,2.42Z"/>
+              <path class="st39" d="M618.65,509.97h31.03c1.33,0,2.42-1.09,2.42-2.42h0c0-1.33-1.09-2.42-2.42-2.42h-31.03c-1.33,0-2.42,1.09-2.42,2.42h0c0,1.33,1.09,2.42,2.42,2.42Z"/>
+            </g>
+          </g>
+          <g>
+            <g class="anim-chair-lean" style="transform-origin: 248px 388px">
+              <g>
+                <path class="st38" d="M278.28,544.35l62.19.66c3.71.04,6.75-2.93,6.79-6.64h0c.03-2.86-1.75-5.42-4.44-6.39l-30.66-11.06-33.64.46-.24,22.97h0Z"/>
+                <path class="st36" d="M341.69,546.75l-62.96-.2v-4.51l67.49.22h0c0,2.49-2.03,4.51-4.53,4.5h0Z"/>
+              </g>
+              <g>
+                <line class="st24" x1="311.37" y1="530.01" x2="318.7" y2="522.23"/>
+                <line class="st24" x1="316.71" y1="532.29" x2="324.04" y2="524.5"/>
+                <line class="st24" x1="321.83" y1="535.32" x2="330.08" y2="526.5"/>
+              </g>
+              <path id="left-leg" class="st59 outfit-business" d="M276.16,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z" aria-label="Left leg"/>
+              <g>
+                <path class="st43" d="M333.65,545.9l62.19.43c3.71.03,6.74-2.96,6.76-6.67h0c.02-2.86-1.77-5.41-4.46-6.37l-30.7-10.95-33.64.59-.16,22.97h.01Z"/>
+                <path class="st36" d="M397.08,548.06l-63.96.03v-4.51l68.47-.03h0c0,2.49-2.02,4.51-4.51,4.51h0Z"/>
+              </g>
+              <g>
+                <line class="st24" x1="366.7" y1="531.44" x2="373.99" y2="523.63"/>
+                <line class="st24" x1="372.05" y1="533.69" x2="379.35" y2="525.88"/>
+                <line class="st24" x1="377.17" y1="536.71" x2="385.39" y2="527.85"/>
+              </g>
+              <path id="right-leg" class="st59 outfit-business" d="M331.41,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z" aria-label="Right leg"/>
+            </g>
+            <path id="hip" class="st59 outfit-business" d="M278.19,344.34c0,6.79-2.42,13.02-6.44,17.87-5.14,6.23-12.93,10.2-21.65,10.2h-47.2c-1.4,0-2.78-.1-4.12-.31-3.46-.49-6.72-1.64-9.65-3.3-.52-.28-1.03-.6-1.52-.93-7.69-5-12.78-13.68-12.78-23.53l.87-14.98,101.68-.88.82,15.86h-.01Z" aria-label="Hip"/>
+            <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+              <g>
+                <g>
+                  <path class="st31 outfit-business" d="M310.61,264.34l24.33-3.89c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-24.33,3.89c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71h0Z"/>
+                  <path class="st31 outfit-business" d="M318.36,270.92l19.54-3.12c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-19.54,3.12c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71Z"/>
+                  <path class="st31 outfit-business" d="M313.85,279.45l23.12-3.7c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-23.12,3.7c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71Z"/>
+                </g>
+                <path id="other-hand-formal" class="st31 outfit-business" d="M321.12,258.05c-.26.03-3.25,0-6.48-.06-5.58-.09-11.11,1.15-16.12,3.61l-9.6,4.72s5.5,16.31,6.25,16.45c18.5,3.34,24.85-5.06,24.85-5.06l1.1-19.66h0Z" aria-label="Other hand"/>
+              </g>
+              <rect class="st39 outfit-business" x="298.58" y="257.99" width="8.21" height="26.69"/>
+            </g>
+            <g class="outfit-business"><path class="st59" d="M244.76,287.58c-19.36,0-37.07-11.3-45.2-28.91l-.4-.87-25.35-77.4,31.22-10.22,24.7,75.42c2.93,5.63,8.82,9.19,15.2,9.12l53.84-.53.33,32.85-53.84.53h-.5Z"/></g>
+            <g class="outfit-programmer anim-chair-lean" style="transform-origin: 248px 388px">
+              <!-- Other hand (casual) drawn first so it appears behind the other arm -->
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path id="other-hand-casual" class="st10" d="M321.12,258.05c-.26.03-3.25,0-6.48-.06-5.58-.09-11.11,1.15-16.12,3.61l-9.6,4.72s5.5,16.31,6.25,16.45c18.5,3.34,24.85-5.06,24.85-5.06l1.1-19.66h0Z" aria-label="Other hand (behind other arm)"/>
+              </g>
+              <!-- Other arm (casual) drawn after hand so it appears in front -->
+              <path id="other-arm-casual" class="st64" d="M244.76,287.58c-19.36,0-37.07-11.3-45.2-28.91l-.4-.87-25.35-77.4,31.22-10.22,24.7,75.42c2.93,5.63,8.82,9.19,15.2,9.12l53.84-.53.33,32.85-53.84.53h-.5Z" aria-label="Other arm (casual, behind torso)"/>
+              <path id="torso-casual" class="st63" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z" aria-label="Torso (casual)"/>
+              <polygon class="st63" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98" aria-label="Collar (casual, red)"/>
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path class="st63" d="M310.61,264.34l24.33-3.89c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-24.33,3.89c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71h0Z"/>
+                <path class="st63" d="M318.36,270.92l19.54-3.12c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-19.54,3.12c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71Z"/>
+
+                <rect class="st63" x="298.58" y="257.99" width="8.21" height="26.69"/>
+              </g>
+              <path class="st64" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <path class="st64" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+              <path class="st65" d="M276.16,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path class="st65" d="M331.41,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path class="st65" d="M278.19,344.34c0,6.79-2.42,13.02-6.44,17.87-5.14,6.23-12.93,10.2-21.65,10.2h-47.2c-1.4,0-2.78-.1-4.12-.31-3.46-.49-6.72-1.64-9.65-3.3-.52-.28-1.03-.6-1.52-.93-7.69-5-12.78-13.68-12.78-23.53l.87-14.98,101.68-.88.82,15.86h-.01Z"/>
+            </g>
+            <!-- 2e: Outfits (4 personas cycling every 10s) -->
+            <!-- ===== ARCHITECT outfit: blue polo + khaki pants ===== -->
+            <g class="outfit-architect anim-chair-lean" style="transform-origin: 248px 388px">
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path class="st10" d="M321.12,258.05c-.26.03-3.25,0-6.48-.06-5.58-.09-11.11,1.15-16.12,3.61l-9.6,4.72s5.5,16.31,6.25,16.45c18.5,3.34,24.85-5.06,24.85-5.06l1.1-19.66h0Z"/>
+              </g>
+              <path fill="#1D4D7E" d="M244.76,287.58c-19.36,0-37.07-11.3-45.2-28.91l-.4-.87-25.35-77.4,31.22-10.22,24.7,75.42c2.93,5.63,8.82,9.19,15.2,9.12l53.84-.53.33,32.85-53.84.53h-.5Z"/>
+              <path fill="#2E6DA4" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z"/>
+              <polygon fill="#2E6DA4" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98"/>
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path fill="#2E6DA4" d="M310.61,264.34l24.33-3.89c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-24.33,3.89c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71h0Z"/>
+                <path fill="#2E6DA4" d="M318.36,270.92l19.54-3.12c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-19.54,3.12c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71Z"/>
+                <rect fill="#2E6DA4" x="298.58" y="257.99" width="8.21" height="26.69"/>
+              </g>
+              <path fill="#1D4D7E" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <path fill="#1D4D7E" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+              <path fill="#BFA980" d="M276.16,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path fill="#BFA980" d="M331.41,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path fill="#BFA980" d="M278.19,344.34c0,6.79-2.42,13.02-6.44,17.87-5.14,6.23-12.93,10.2-21.65,10.2h-47.2c-1.4,0-2.78-.1-4.12-.31-3.46-.49-6.72-1.64-9.65-3.3-.52-.28-1.03-.6-1.52-.93-7.69-5-12.78-13.68-12.78-23.53l.87-14.98,101.68-.88.82,15.86h-.01Z"/>
+            </g>
+            <!-- ===== AUTHOR outfit: warm brown sweater + blue jeans ===== -->
+            <g class="outfit-author anim-chair-lean" style="transform-origin: 248px 388px">
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path class="st10" d="M321.12,258.05c-.26.03-3.25,0-6.48-.06-5.58-.09-11.11,1.15-16.12,3.61l-9.6,4.72s5.5,16.31,6.25,16.45c18.5,3.34,24.85-5.06,24.85-5.06l1.1-19.66h0Z"/>
+              </g>
+              <path fill="#5C3520" d="M244.76,287.58c-19.36,0-37.07-11.3-45.2-28.91l-.4-.87-25.35-77.4,31.22-10.22,24.7,75.42c2.93,5.63,8.82,9.19,15.2,9.12l53.84-.53.33,32.85-53.84.53h-.5Z"/>
+              <path fill="#7A4A2C" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z"/>
+              <polygon fill="#7A4A2C" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98"/>
+              <g class="anim-other-arm-up" style="transform-origin: 310px 270px">
+                <path fill="#7A4A2C" d="M310.61,264.34l24.33-3.89c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-24.33,3.89c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71h0Z"/>
+                <path fill="#7A4A2C" d="M318.36,270.92l19.54-3.12c1.78-.28,3-1.97,2.71-3.75h0c-.28-1.78-1.97-3-3.75-2.71l-19.54,3.12c-1.78.28-3,1.97-2.71,3.75h0c.28,1.78,1.97,3,3.75,2.71Z"/>
+                <rect fill="#7A4A2C" x="298.58" y="257.99" width="8.21" height="26.69"/>
+              </g>
+              <path fill="#5C3520" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <path fill="#5C3520" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+              <path fill="#8B6942" d="M276.16,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path fill="#8B6942" d="M331.41,523.92c3.61-60.67,2.64-116.75-2.09-128.11-4.85-7.05-42.63-22.34-80.39-23.99l17.67-38.58c49.53,2.49,84.93,21.07,97.31,42.31,5.23,8.96,9.77,27.05,7.32,88.91-1.28,32.4-2.86,57.78-2.86,57.78l-36.96,1.68h0Z"/>
+              <path fill="#8B6942" d="M278.19,344.34c0,6.79-2.42,13.02-6.44,17.87-5.14,6.23-12.93,10.2-21.65,10.2h-47.2c-1.4,0-2.78-.1-4.12-.31-3.46-.49-6.72-1.64-9.65-3.3-.52-.28-1.03-.6-1.52-.93-7.69-5-12.78-13.68-12.78-23.53l.87-14.98,101.68-.88.82,15.86h-.01Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-business" style="transform-origin: 248px 388px">
+              <path class="st42" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-architect" style="transform-origin: 248px 388px">
+              <path fill="#2E6DA4" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-author" style="transform-origin: 248px 388px">
+              <path fill="#7A4A2C" d="M286.89,180.21l-.61,68.96-.77,87.8s-1.89,2.12-7.54,5.08c-4.9,2.58-12.59,5.8-24.32,8.85-13.67,3.55-32.91,4.1-49.35,3.69-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,2.78-.48,5.63-.73,8.56-.73h16.64c27.18,0,49.22,22.04,49.22,49.22h-.01Z"/>
+            </g>
+            <g>
+              <g>
+                <rect class="st57" x="210.12" y="406.5" width="16.61" height="95.37"/>
+                <path class="st27" d="M210.12,411.88v20.87l16.61-6.06v-14.13c-4.16-.18-12.16-.5-16.61-.68Z"/>
+              </g>
+              <path class="st50" d="M269.54,414.74h-99.47c-5.1,0-9.27-4.17-9.27-9.27h0c0-5.1,4.17-9.27,9.27-9.27h99.47c5.1,0,9.27,4.17,9.27,9.27h0c0,5.1-4.17,9.27-9.27,9.27Z"/>
+              <g>
+                <path class="st50" d="M288.84,532.66h-10.39c0-11.7-10.1-21.23-22.52-21.23h-75.72c-12.42,0-22.52,9.52-22.52,21.23h-10.39c0-17.11,14.76-31.02,32.91-31.02h75.72c18.15,0,32.91,13.92,32.91,31.02h0Z"/>
+                <rect class="st50" x="206.19" y="486.94" width="24.25" height="14.93"/>
+              </g>
+              <g>
+                <ellipse class="st36" cx="152.1" cy="542.13" rx="8.63" ry="8.14"/>
+                <path class="st28" d="M151.95,528.23h1.57c6.09,0,11.03,4.94,11.03,11.03v2.15h-23.63v-2.15c0-6.09,4.94-11.03,11.03-11.03h0Z"/>
+                <ellipse class="st36" cx="284.13" cy="542.13" rx="8.63" ry="8.14"/>
+                <path class="st28" d="M283.98,528.23h1.57c6.09,0,11.03,4.94,11.03,11.03v2.15h-23.63v-2.15c0-6.09,4.94-11.03,11.03-11.03Z"/>
+              </g>
+              <rect class="st50" x="211.93" y="504.67" width="13.76" height="29.39"/>
+              <g>
+                <ellipse class="st36" cx="219.09" cy="542.13" rx="8.63" ry="8.14"/>
+                <path class="st28" d="M218.95,528.23h1.57c6.09,0,11.03,4.94,11.03,11.03v2.15h-23.63v-2.15c0-6.09,4.94-11.03,11.03-11.03h0Z"/>
+              </g>
+            </g>
+            <g class="anim-chair-lean" style="transform-origin: 248px 388px">
+              <path class="st48" d="M86.14,227.05l22.25,160.61c1.35,9.77,9.55,17.14,19.41,17.44l81.19.93-45.15-201.96-57.63-.03c-12.29-.02-21.76,10.83-20.07,23h0Z"/>
+            </g>
+            <g class="anim-chair-lean" style="transform-origin: 248px 388px">
+              <path class="st34" d="M192,371.04h112.87c9.66,0,17.5,7.84,17.5,17.5h0c0,9.66-7.84,17.5-17.5,17.5h-112.87c-9.66,0-17.5-7.84-17.5-17.5h0c0-9.66,7.84-17.5,17.5-17.5Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-business" style="transform-origin: 248px 388px">
+              <path class="st59" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <polygon class="st39" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98"/>
+              <path class="st59" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-architect" style="transform-origin: 248px 388px">
+              <path fill="#1D4D7E" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <polygon fill="#2E6DA4" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98"/>
+              <path fill="#1D4D7E" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+            </g>
+            <g class="anim-chair-lean outfit-author" style="transform-origin: 248px 388px">
+              <path fill="#5C3520" d="M198.41,175.03c-2.19,31.66,3.98,145.85,5.89,179.58-18.14-.45-32.86-2.04-32.86-2.04l.38-172.35c0-24.25,17.56-44.43,40.66-48.49,0,0-11.5,6.01-14.07,43.3h0Z"/>
+              <polygon fill="#7A4A2C" points="255 133.98 204.23 133.98 204.23 119.79 255 125.79 255 133.98"/>
+              <path fill="#5C3520" d="M286.28,249.17l-.77,87.8s-1.89,2.12-7.54,5.08l-11.69-132.33s10.72,26.78,20,39.44h0Z"/>
+            </g>
+            <g class="anim-chair-lean" style="transform-origin: 248px 388px">
+              <path class="st34" d="M173.04,383.94l-23.58-164.71c-1.05-7.34,4.46-14.15,12.24-15.14h0c7.78-.99,15.01,4.2,16.06,11.54l23.58,164.71c1.05,7.34-4.46,14.15-12.24,15.14h0c-7.78.99-11.81,6.49-16.06-11.54Z"/>
+            </g>
+          </g>
+        </g>
+        <path id="character-shadow" class="st9" d="M507,187.77l-5.81,32.47-4.08,22.74c-2.26,1.06-4.79,1.65-7.45,1.65h-55c5.22-5.4,13.98-14.47,23.41-24.39,14.69-15.44,31.02-32.93,38.26-41.81l10.67,9.34h0Z"/>
+      </g>
+      <!-- 2f: Laptop -->
+      <g id="laptop">
+        <path class="st33" d="M476.77,271.73h108.86c.61-.87,1.08-1.85,1.37-2.91l24.36-87.92c1.17-4.19-1.98-8.34-6.33-8.34h-95.78c-2.95,0-5.54,1.98-6.33,4.82l-26.15,94.36h0Z"/>
+        <path class="st23" d="M606.16,177.76l-24.34,87.84c-1.13,4.09-4.85,6.92-9.1,6.92h-102.14l27.24-98.28c.79-2.84,3.37-4.81,6.32-4.81h95.69c4.35,0,7.49,4.14,6.33,8.33h0Z"/>
+        <path class="st16" id="laptop-screen" d="M600.78,181.62l-19.89,71.63-4.17,15h-101.33l4.16-15,20.81-74.89c.73-2.63,3.13-4.45,5.87-4.45h88.7c4.02,0,6.94,3.84,5.87,7.71h-.02Z"/>
+        <g id="laptop-code-area" clip-path="url(#laptop-scroll-clip)">
+          <g id="laptop-code-scroll" class="anim-laptop-scroll screen-programmer" style="transform-origin: 540px 215px">
+            <g>
+              <g>
+                <polygon class="st19" points="541.09 183.66 509.9 183.66 510.6 181.46 541.78 181.46 541.09 183.66"/>
+                <polygon class="st29" points="569.38 183.66 554.61 183.66 555.31 181.46 570.07 181.46 569.38 183.66"/>
+                <polygon class="st23" points="590.7 183.66 575.93 183.66 576.63 181.46 591.39 181.46 590.7 183.66"/>
+                <polygon class="st49" points="574.19 183.66 570.69 183.66 571.39 181.46 574.88 181.46 574.19 183.66"/>
+                <polygon class="st23" points="552.9 183.66 542.55 183.66 543.25 181.46 553.6 181.46 552.9 183.66"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 221.08 534.14 221.08 534.83 218.89 520.07 218.89 519.37 221.08"/>
+                <polygon class="st41" points="498.05 221.08 512.82 221.08 513.51 218.89 498.75 218.89 498.05 221.08"/>
+                <polygon class="st49" points="514.56 221.08 518.06 221.08 518.75 218.89 515.26 218.89 514.56 221.08"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 193.01 506.94 193.01 507.63 190.82 519.33 190.82 518.63 193.01"/>
+                <polygon class="st49" points="546.92 193.01 541.9 193.01 542.6 190.82 547.62 190.82 546.92 193.01"/>
+                <polygon class="st29" points="587.74 193.01 563.22 193.01 563.92 190.82 588.43 190.82 587.74 193.01"/>
+                <polygon class="st49" points="561.48 193.01 548.24 193.01 548.93 190.82 562.17 190.82 561.48 193.01"/>
+                <polygon class="st49" points="540.19 193.01 520.1 193.01 520.79 190.82 540.89 190.82 540.19 193.01"/>
+              </g>
+              <polygon class="st13" points="500.86 249.15 489.16 249.15 489.86 246.95 501.55 246.95 500.86 249.15"/>
+              <g>
+                <polygon class="st33" points="515.67 202.37 503.98 202.37 504.67 200.18 516.37 200.18 515.67 202.37"/>
+                <polygon class="st33" points="534.76 202.37 523.06 202.37 523.76 200.18 535.45 200.18 534.76 202.37"/>
+                <polygon class="st49" points="581.53 202.37 561.43 202.37 562.13 200.18 582.22 200.18 581.53 202.37"/>
+              </g>
+              <polygon class="st49" points="501.01 211.72 521.11 211.72 521.81 209.53 501.71 209.53 501.01 211.72"/>
+              <g>
+                <polygon class="st33" points="518.63 225.5 506.94 225.5 507.63 223.31 519.33 223.31 518.63 225.5"/>
+                <polygon class="st49" points="546.92 225.5 541.9 225.5 542.6 223.31 547.62 223.31 546.92 225.5"/>
+                <polygon class="st29" points="561.48 225.5 548.24 225.5 548.93 223.31 562.17 223.31 561.48 225.5"/>
+                <polygon class="st49" points="540.19 225.5 520.1 225.5 520.79 223.31 540.89 223.31 540.19 225.5"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 229.3 534.14 229.3 534.83 227.11 520.07 227.11 519.37 229.3"/>
+                <polygon class="st41" points="498.05 229.3 512.82 229.3 513.51 227.11 498.75 227.11 498.05 229.3"/>
+                <polygon class="st49" points="514.56 229.3 518.06 229.3 518.75 227.11 515.26 227.11 514.56 229.3"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 233.1 506.94 233.1 507.63 230.91 519.33 230.91 518.63 233.1"/>
+                <polygon class="st49" points="546.92 233.1 541.9 233.1 542.6 230.91 547.62 230.91 546.92 233.1"/>
+                <polygon class="st49" points="561.48 233.1 548.24 233.1 548.93 230.91 562.17 230.91 561.48 233.1"/>
+              </g>
+              <g>
+                <polygon class="st33" points="515.67 236.9 503.98 236.9 504.67 234.71 516.37 234.71 515.67 236.9"/>
+                <polygon class="st33" points="534.76 236.9 523.06 236.9 523.76 234.71 535.45 234.71 534.76 236.9"/>
+                <polygon class="st49" points="581.53 236.9 561.43 236.9 562.13 234.71 582.22 234.71 581.53 236.9"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 240.7 506.94 240.7 507.63 238.51 519.33 238.51 518.63 240.7"/>
+                <polygon class="st49" points="546.92 240.7 541.9 240.7 542.6 238.51 547.62 238.51 546.92 240.7"/>
+                <polygon class="st49" points="540.19 240.7 520.1 240.7 520.79 238.51 540.89 238.51 540.19 240.7"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 244.5 534.14 244.5 534.83 242.31 520.07 242.31 519.37 244.5"/>
+                <polygon class="st49" points="498.05 244.5 512.82 244.5 513.51 242.31 498.75 242.31 498.05 244.5"/>
+              </g>
+            </g>
+            <g transform="translate(-21, 65)">
+              <g>
+                <polygon class="st19" points="541.09 183.66 509.9 183.66 510.6 181.46 541.78 181.46 541.09 183.66"/>
+                <polygon class="st29" points="569.38 183.66 554.61 183.66 555.31 181.46 570.07 181.46 569.38 183.66"/>
+                <polygon class="st23" points="590.7 183.66 575.93 183.66 576.63 181.46 591.39 181.46 590.7 183.66"/>
+                <polygon class="st49" points="574.19 183.66 570.69 183.66 571.39 181.46 574.88 181.46 574.19 183.66"/>
+                <polygon class="st23" points="552.9 183.66 542.55 183.66 543.25 181.46 553.6 181.46 552.9 183.66"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 221.08 534.14 221.08 534.83 218.89 520.07 218.89 519.37 221.08"/>
+                <polygon class="st41" points="498.05 221.08 512.82 221.08 513.51 218.89 498.75 218.89 498.05 221.08"/>
+                <polygon class="st49" points="514.56 221.08 518.06 221.08 518.75 218.89 515.26 218.89 514.56 221.08"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 193.01 506.94 193.01 507.63 190.82 519.33 190.82 518.63 193.01"/>
+                <polygon class="st49" points="546.92 193.01 541.9 193.01 542.6 190.82 547.62 190.82 546.92 193.01"/>
+                <polygon class="st29" points="587.74 193.01 563.22 193.01 563.92 190.82 588.43 190.82 587.74 193.01"/>
+                <polygon class="st49" points="561.48 193.01 548.24 193.01 548.93 190.82 562.17 190.82 561.48 193.01"/>
+                <polygon class="st49" points="540.19 193.01 520.1 193.01 520.79 190.82 540.89 190.82 540.19 193.01"/>
+              </g>
+              <polygon class="st13" points="500.86 249.15 489.16 249.15 489.86 246.95 501.55 246.95 500.86 249.15"/>
+              <g>
+                <polygon class="st33" points="515.67 202.37 503.98 202.37 504.67 200.18 516.37 200.18 515.67 202.37"/>
+                <polygon class="st33" points="534.76 202.37 523.06 202.37 523.76 200.18 535.45 200.18 534.76 202.37"/>
+                <polygon class="st49" points="581.53 202.37 561.43 202.37 562.13 200.18 582.22 200.18 581.53 202.37"/>
+              </g>
+              <polygon class="st49" points="501.01 211.72 521.11 211.72 521.81 209.53 501.71 209.53 501.01 211.72"/>
+              <g>
+                <polygon class="st33" points="518.63 225.5 506.94 225.5 507.63 223.31 519.33 223.31 518.63 225.5"/>
+                <polygon class="st49" points="546.92 225.5 541.9 225.5 542.6 223.31 547.62 223.31 546.92 225.5"/>
+                <polygon class="st29" points="561.48 225.5 548.24 225.5 548.93 223.31 562.17 223.31 561.48 225.5"/>
+                <polygon class="st49" points="540.19 225.5 520.1 225.5 520.79 223.31 540.89 223.31 540.19 225.5"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 229.3 534.14 229.3 534.83 227.11 520.07 227.11 519.37 229.3"/>
+                <polygon class="st41" points="498.05 229.3 512.82 229.3 513.51 227.11 498.75 227.11 498.05 229.3"/>
+                <polygon class="st49" points="514.56 229.3 518.06 229.3 518.75 227.11 515.26 227.11 514.56 229.3"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 233.1 506.94 233.1 507.63 230.91 519.33 230.91 518.63 233.1"/>
+                <polygon class="st49" points="546.92 233.1 541.9 233.1 542.6 230.91 547.62 230.91 546.92 233.1"/>
+                <polygon class="st49" points="561.48 233.1 548.24 233.1 548.93 230.91 562.17 230.91 561.48 233.1"/>
+              </g>
+              <g>
+                <polygon class="st33" points="515.67 236.9 503.98 236.9 504.67 234.71 516.37 234.71 515.67 236.9"/>
+                <polygon class="st33" points="534.76 236.9 523.06 236.9 523.76 234.71 535.45 234.71 534.76 236.9"/>
+                <polygon class="st49" points="581.53 236.9 561.43 236.9 562.13 234.71 582.22 234.71 581.53 236.9"/>
+              </g>
+              <g>
+                <polygon class="st29" points="518.63 240.7 506.94 240.7 507.63 238.51 519.33 238.51 518.63 240.7"/>
+                <polygon class="st49" points="546.92 240.7 541.9 240.7 542.6 238.51 547.62 238.51 546.92 240.7"/>
+                <polygon class="st49" points="540.19 240.7 520.1 240.7 520.79 238.51 540.89 238.51 540.19 240.7"/>
+              </g>
+              <g>
+                <polygon class="st33" points="519.37 244.5 534.14 244.5 534.83 242.31 520.07 242.31 519.37 244.5"/>
+                <polygon class="st49" points="498.05 244.5 512.82 244.5 513.51 242.31 498.75 242.31 498.05 244.5"/>
+              </g>
+            </g>
+          </g>
+          <!-- Laptop: Architect phase — scrolling flowchart (78px span, same as main monitor) -->
+          <g class="screen-architect" style="transform: skewX(-15.64deg); transform-origin: 540px 217px">
+            <rect fill="#0e1a28" x="488" y="178" width="108" height="75"/>
+            <g class="anim-flowchart-scroll">
+              <!-- Copy 1: y=178–256 (78px) -->
+              <rect fill="#1a4060" stroke="#4a9eed" stroke-width="0.7" x="502" y="178" width="80" height="14" rx="2"/>
+              <rect fill="#4a9eed" x="508" y="181" width="40" height="4" rx="1"/>
+              <rect fill="#3a82cc" x="508" y="186" width="26" height="3" rx="1"/>
+              <line x1="542" y1="192" x2="542" y2="198" stroke="#6aadee" stroke-width="0.7"/>
+              <polygon fill="#0e2438" stroke="#4a9eed" stroke-width="0.7" points="542,198 562,207 542,216 522,207"/>
+              <rect fill="#9ac4e8" x="530" y="204" width="24" height="3" rx="1"/>
+              <line x1="542" y1="216" x2="542" y2="222" stroke="#6aadee" stroke-width="0.7"/>
+              <rect fill="#1a3828" stroke="#4aee88" stroke-width="0.7" x="502" y="222" width="80" height="14" rx="2"/>
+              <rect fill="#4aee88" x="508" y="225" width="40" height="4" rx="1"/>
+              <rect fill="#3acc70" x="508" y="230" width="26" height="3" rx="1"/>
+              <line x1="542" y1="236" x2="542" y2="256" stroke="#6aadee" stroke-width="0.7" stroke-dasharray="2,2"/>
+              <!-- Copy 2: y+78 -->
+              <rect fill="#1a4060" stroke="#4a9eed" stroke-width="0.7" x="502" y="256" width="80" height="14" rx="2"/>
+              <rect fill="#4a9eed" x="508" y="259" width="40" height="4" rx="1"/>
+              <rect fill="#3a82cc" x="508" y="264" width="26" height="3" rx="1"/>
+              <line x1="542" y1="270" x2="542" y2="276" stroke="#6aadee" stroke-width="0.7"/>
+              <polygon fill="#0e2438" stroke="#4a9eed" stroke-width="0.7" points="542,276 562,285 542,294 522,285"/>
+              <rect fill="#9ac4e8" x="530" y="282" width="24" height="3" rx="1"/>
+              <line x1="542" y1="294" x2="542" y2="300" stroke="#6aadee" stroke-width="0.7"/>
+              <rect fill="#1a3828" stroke="#4aee88" stroke-width="0.7" x="502" y="300" width="80" height="14" rx="2"/>
+              <rect fill="#4aee88" x="508" y="303" width="40" height="4" rx="1"/>
+              <rect fill="#3acc70" x="508" y="308" width="26" height="3" rx="1"/>
+              <line x1="542" y1="314" x2="542" y2="334" stroke="#6aadee" stroke-width="0.7" stroke-dasharray="2,2"/>
+            </g>
+          </g>
+          <!-- Laptop: Business phase — mini PPT slides (synced to main monitor) -->
+          <g class="screen-business" style="transform: skewX(-15.64deg); transform-origin: 540px 217px">
+            <rect fill="#10172a" x="488" y="178" width="108" height="75"/>
+            <!-- Slide 1: bar chart -->
+            <g class="ppt-slide-1">
+              <rect fill="#2c4a8e" x="488" y="178" width="108" height="13"/>
+              <rect fill="#ffffff" x="492" y="181" width="55" height="5" rx="1"/>
+              <rect fill="#4a9eed" x="494" y="196" width="12" height="30"/>
+              <rect fill="#ea5444" x="510" y="203" width="12" height="23"/>
+              <rect fill="#ffbe62" x="526" y="199" width="12" height="27"/>
+              <rect fill="#65b15b" x="542" y="201" width="12" height="25"/>
+              <rect fill="#9b59b6" x="558" y="193" width="12" height="33"/>
+              <line x1="492" y1="226" x2="578" y2="226" stroke="#5a6a8a" stroke-width="0.6"/>
+              <rect fill="#aac8e8" x="494" y="229" width="50" height="4" rx="1"/>
+              <rect fill="#aac8e8" x="550" y="229" width="28" height="4" rx="1"/>
+            </g>
+            <!-- Slide 2: donut chart -->
+            <g class="ppt-slide-2">
+              <rect fill="#8e2c2c" x="488" y="178" width="108" height="13"/>
+              <rect fill="#ffffff" x="492" y="181" width="45" height="5" rx="1"/>
+              <circle cx="514" cy="212" r="16" fill="none" stroke="#4a9eed" stroke-width="8" stroke-dasharray="40 61" stroke-dashoffset="0"/>
+              <circle cx="514" cy="212" r="16" fill="none" stroke="#ea5444" stroke-width="8" stroke-dasharray="25 76" stroke-dashoffset="-40"/>
+              <circle cx="514" cy="212" r="16" fill="none" stroke="#65b15b" stroke-width="8" stroke-dasharray="22 79" stroke-dashoffset="-65"/>
+              <circle cx="514" cy="212" r="8" fill="#10172a"/>
+              <rect fill="#4a9eed" x="536" y="198" width="5" height="5" rx="1"/>
+              <rect fill="#aac8e8" x="543" y="200" width="44" height="3" rx="1"/>
+              <rect fill="#ea5444" x="536" y="208" width="5" height="5" rx="1"/>
+              <rect fill="#aac8e8" x="543" y="210" width="36" height="3" rx="1"/>
+              <rect fill="#65b15b" x="536" y="218" width="5" height="5" rx="1"/>
+              <rect fill="#aac8e8" x="543" y="220" width="40" height="3" rx="1"/>
+              <rect fill="#aac8e8" x="536" y="230" width="52" height="3" rx="1"/>
+              <rect fill="#aac8e8" x="536" y="236" width="38" height="3" rx="1"/>
+            </g>
+          </g>
+          <!-- Laptop: Author phase — warm document scroll (seamless) -->
+          <g class="screen-author" style="transform: skewX(-15.64deg); transform-origin: 540px 217px">
+            <rect fill="#f2ede4" x="488" y="178" width="108" height="75"/>
+            <rect fill="#e0d8c8" x="488" y="178" width="108" height="10"/>
+            <rect fill="#3a3a3a" x="506" y="180" width="52" height="5" rx="1"/>
+            <g class="anim-doc-scroll">
+              <!-- Copy 1: 9 lines, y=190 to y=251 (61px) -->
+              <rect fill="#4a4a4a" x="492" y="190" width="98" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="197" width="85" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="204" width="93" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="211" width="78" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="220" width="90" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="227" width="80" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="234" width="95" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="241" width="70" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="248" width="94" height="3" rx="1"/>
+              <!-- Copy 2: +62px offset -->
+              <rect fill="#4a4a4a" x="492" y="252" width="88" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="259" width="98" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="266" width="78" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="273" width="92" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="282" width="83" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="289" width="96" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="296" width="75" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="303" width="90" height="3" rx="1"/>
+              <rect fill="#4a4a4a" x="492" y="310" width="86" height="3" rx="1"/>
+            </g>
+          </g>
+        </g>
+        <polygon class="st23" points="582.21 253.25 577.93 268.25 474.06 268.25 478.33 253.25 582.21 253.25"/>
+        <path class="st23" d="M526.27,272.75h-124.43c-2.91,0-5.29-2.38-5.29-5.29h0c0-2.91,2.38-5.29,5.29-5.29h124.43c2.91,0,5.29,2.38,5.29,5.29h0c0,2.91-2.38,5.29-5.29,5.29Z"/>
+        <polygon id="laptop-glare" class="st6" points="575.2 169.43 573.15 173.92 536.93 253.25 533.19 261.43 494.06 261.43 497.8 253.25 534.02 173.92 536.07 169.43 575.2 169.43" aria-label="Laptop glare"/>
+        <polygon class="st6" points="460.11 95.27 406.28 213.13 348.72 213.13 402.55 95.27 460.11 95.27"/>
+        <g>
+          <path class="st33" d="M573.44,272.43h-72.02c-2.91,0-5.29-2.38-5.29-5.29h0c0-2.91,2.38-5.29,5.29-5.29h72.02c2.91,0,5.29,2.38,5.29,5.29h0c0,2.91-2.38,5.29-5.29,5.29Z"/>
+          <g>
+            <rect class="st36" x="537.28" y="265.36" width="10.29" height="3.09"/>
+            <rect class="st36" x="526.74" y="265.36" width="7.46" height="3.09"/>
+          </g>
+        </g>
+      </g>
+      <g class="outfit-programmer anim-hand-move" style="transform-origin: 415px 268px" aria-label="Arm on laptop (casual)">
+        <path class="st10" d="M420.43,255.67c-2.01-3.59-5.04-6.52-8.73-8.34-.03,0-.06-.03-.09-.04-5.02-2.45-10.55-3.67-16.13-3.56l-10.69.21s-2.71,23.2-2.57,22.44c.28-1.51,26.14-1.12,37.99-.86,2.57.06,4.22-2.7,2.96-4.94l-2.75-4.9h.01Z"/>
+        <path class="st63" d="M381.32 242.18 L385.52 242.18 Q388.52 242.18 388.52 244.68 L388.52 266.84 Q388.52 269.52 385.52 269.52 L381.32 269.52 Q378.32 269.52 378.32 266.84 L378.32 244.68 Q378.32 242.18 381.32 242.18 Z"/>
+        <path class="st63" d="M328.38,272.64c-19.36,0-37.07-11.3-45.2-28.91l-52.71-91.91,5.6-2.59c13.38-6.18,29.23-.35,35.42,13.03l41.51,67.69c2.79,6.04,8.83,9.91,15.55,9.83l53.84-.53.33,32.85-53.84.53h-.5,0Z"/>
+      </g>
+      <g id="arm-on-laptop" class="anim-hand-move outfit-business" style="transform-origin: 415px 268px" aria-label="Arm typing on laptop">
+        <!-- Hand (bottom), then sleeve cuff, then arm/coat on top -->
+        <path class="st31" d="M420.43,255.67c-2.01-3.59-5.04-6.52-8.73-8.34-.03,0-.06-.03-.09-.04-5.02-2.45-10.55-3.67-16.13-3.56l-10.69.21s-2.71,23.2-2.57,22.44c.28-1.51,26.14-1.12,37.99-.86,2.57.06,4.22-2.7,2.96-4.94l-2.75-4.9h.01Z"/>
+        <path class="st39" d="M381.32 242.18 L385.52 242.18 Q388.52 242.18 388.52 244.68 L388.52 266.84 Q388.52 269.52 385.52 269.52 L381.32 269.52 Q378.32 269.52 378.32 266.84 L378.32 244.68 Q378.32 242.18 381.32 242.18 Z"/>
+        <path class="st42" d="M328.38,272.64c-19.36,0-37.07-11.3-45.2-28.91l-52.71-91.91,5.6-2.59c13.38-6.18,29.23-.35,35.42,13.03l41.51,67.69c2.79,6.04,8.83,9.91,15.55,9.83l53.84-.53.33,32.85-53.84.53h-.5,0Z"/>
+      </g>
+      <g class="outfit-architect anim-hand-move" style="transform-origin: 415px 268px" aria-label="Arm on laptop (architect)">
+        <path class="st10" d="M420.43,255.67c-2.01-3.59-5.04-6.52-8.73-8.34-.03,0-.06-.03-.09-.04-5.02-2.45-10.55-3.67-16.13-3.56l-10.69.21s-2.71,23.2-2.57,22.44c.28-1.51,26.14-1.12,37.99-.86,2.57.06,4.22-2.7,2.96-4.94l-2.75-4.9h.01Z"/>
+        <path fill="#2E6DA4" d="M381.32 242.18 L385.52 242.18 Q388.52 242.18 388.52 244.68 L388.52 266.84 Q388.52 269.52 385.52 269.52 L381.32 269.52 Q378.32 269.52 378.32 266.84 L378.32 244.68 Q378.32 242.18 381.32 242.18 Z"/>
+        <path fill="#2E6DA4" d="M328.38,272.64c-19.36,0-37.07-11.3-45.2-28.91l-52.71-91.91,5.6-2.59c13.38-6.18,29.23-.35,35.42,13.03l41.51,67.69c2.79,6.04,8.83,9.91,15.55,9.83l53.84-.53.33,32.85-53.84.53h-.5,0Z"/>
+      </g>
+      <g class="outfit-author anim-hand-move" style="transform-origin: 415px 268px" aria-label="Arm on laptop (author)">
+        <path class="st10" d="M420.43,255.67c-2.01-3.59-5.04-6.52-8.73-8.34-.03,0-.06-.03-.09-.04-5.02-2.45-10.55-3.67-16.13-3.56l-10.69.21s-2.71,23.2-2.57,22.44c.28-1.51,26.14-1.12,37.99-.86,2.57.06,4.22-2.7,2.96-4.94l-2.75-4.9h.01Z"/>
+        <path fill="#7A4A2C" d="M381.32 242.18 L385.52 242.18 Q388.52 242.18 388.52 244.68 L388.52 266.84 Q388.52 269.52 385.52 269.52 L381.32 269.52 Q378.32 269.52 378.32 266.84 L378.32 244.68 Q378.32 242.18 381.32 242.18 Z"/>
+        <path fill="#7A4A2C" d="M328.38,272.64c-19.36,0-37.07-11.3-45.2-28.91l-52.71-91.91,5.6-2.59c13.38-6.18,29.23-.35,35.42,13.03l41.51,67.69c2.79,6.04,8.83,9.91,15.55,9.83l53.84-.53.33,32.85-53.84.53h-.5,0Z"/>
+      </g>
+      <!-- 2g: Accessories — mug, pencil holder, books, lamp, plants -->
+      <g id="red-mug">
+        <!-- Steam: more prominent + lighter wisps going higher -->
+        <path class="anim-steam" fill="none" stroke="#fff" stroke-width="1.8" stroke-opacity="0.65" d="M454,228 Q452,222 455,216 Q458,210 454,204" style="transform-box:fill-box;transform-origin:454px 228px"/>
+        <path class="anim-steam-2" fill="none" stroke="#fff" stroke-width="1.5" stroke-opacity="0.55" d="M462,226 Q460,218 464,210 Q466,202 462,196" style="transform-box:fill-box;transform-origin:462px 226px"/>
+        <path class="anim-steam-3" fill="none" stroke="#fff" stroke-width="1.4" stroke-opacity="0.5" d="M458,227 Q456,220 459,212" style="transform-box:fill-box;transform-origin:458px 227px"/>
+        <path class="anim-steam-tall" fill="none" stroke="#e8f4fc" stroke-width="1.2" stroke-opacity="0.5" d="M456,226 Q454,218 457,208 Q460,198 456,188 Q453,178 457,168" style="transform-box:fill-box;transform-origin:456px 226px"/>
+        <path class="anim-steam-tall-2" fill="none" stroke="#f0f8ff" stroke-width="1" stroke-opacity="0.45" d="M460,225 Q458,215 461,202 Q464,188 460,174" style="transform-box:fill-box;transform-origin:460px 225px"/>
+        <g>
+          <path class="st61" d="M472.1,229.59v43.09h-35.99v-43.09c0-1.9,1.54-3.44,3.44-3.44h29.11c1.9,0,3.44,1.54,3.44,3.44h0Z"/>
+          <path class="st29" d="M436.55,265.3c-.47-.27-11.52-6.74-12.5-18.08-.38-4.32,1.26-7,2.7-8.48,3.95-4.08,10.53-3.85,11.26-3.81l-.29,5.26c-1.33-.06-5.26.21-7.2,2.23-.99,1.03-1.39,2.45-1.22,4.35.75,8.63,9.79,13.91,9.88,13.97l-2.62,4.57h-.01Z"/>
+        </g>
+        <path class="st29" d="M455.28,272.68h-19.17v-43.09c0-1.9,1.54-3.44,3.44-3.44h1.16c.05,2.25.67,19.44,5.5,31.81,4.2,10.78,7.94,13.96,9.08,14.71h0Z"/>
+        <path class="st8" d="M424.05,247.22c.88,10.2,9.92,16.47,12.06,17.8v7.65h19.17c-1.14-.75-4.88-3.93-9.08-14.71-4.83-12.38-5.44-29.57-5.5-31.81h-1.16c-1.9,0-3.44,1.54-3.44,3.44v5.36c-2.42.18-6.55.9-9.36,3.79-1.44,1.49-3.07,4.16-2.7,8.48h0ZM430.53,242.41c1.4-1.44,3.85-2,5.58-2.16v18.22c-2.72-2.32-6.34-6.37-6.81-11.71-.16-1.9.23-3.32,1.23-4.35h0Z"/>
+      </g>
+      <g id="pencil-holder">
+        <g class="anim-leaf-wiggle" style="transform-origin: 42px 228px">
+          <rect class="st60" x="29.83" y="218.36" width="57.14" height="4.14" transform="translate(-168.84 239.5) rotate(-79.96)"/>
+          <rect class="st60" x="53.65" y="196.15" width="17.18" height="6.42" transform="translate(-144.92 225.88) rotate(-79.96)"/>
+        </g>
+        <polygon id="pen-1" class="st22 anim-pen-parallax-1" style="transform-origin: 50px 228px" points="48.66 256.1 44.53 255.75 49.31 198.81 51.81 195.17 53.43 199.16 48.66 256.1" aria-label="Pen 1"/>
+        <polygon id="pen-2" class="st54 anim-pen-parallax-2" style="transform-origin: 38px 228px" points="42.93 259.01 38.86 259.8 27.94 203.71 29.35 199.53 32.01 202.92 42.93 259.01" aria-label="Pen 2"/>
+        <g>
+          <polygon class="st37" points="52.06 272.05 34.37 272.05 28.56 225.21 57.86 225.21 52.06 272.05"/>
+          <polygon class="st52" points="58.73 272.05 41.04 272.05 38.43 225.21 64.54 225.21 58.73 272.05"/>
+        </g>
+      </g>
+      <g id="stack-of-books">
+        <g>
+          <path class="st34" d="M605.02,342.65v25.78h90.03c5.59,0,10.36-3.57,12.15-8.56.48-1.35.75-2.81.75-4.34,0-3.55-1.44-6.77-3.77-9.11-2.34-2.33-5.57-3.77-9.13-3.77h-90.03Z"/>
+          <path class="st8" d="M625.17,359.87v8.56h69.88c5.59,0,10.36-3.57,12.15-8.56h-82.03Z"/>
+          <path class="st48" d="M585.77,342.64v25.79h59.03c7.12,0,12.89-5.78,12.89-12.89,0-3.55-1.44-6.78-3.77-9.12-2.34-2.33-5.57-3.77-9.12-3.77h-59.03Z"/>
+          <path class="st39" d="M585.77,347.06v16.53h55.55c4.57,0,8.27-3.7,8.27-8.27,0-2.28-.93-4.35-2.42-5.85-1.5-1.49-3.57-2.42-5.85-2.42h-55.55Z"/>
+        </g>
+        <g>
+          <path class="st21" d="M603.28,291.4v25.79h90.03c7.12,0,12.89-5.78,12.89-12.89,0-3.55-1.44-6.78-3.77-9.12-2.34-2.33-5.57-3.77-9.12-3.77h-90.03Z"/>
+          <path class="st47" d="M623.69,300.01v-8.56h69.88c5.59,0,10.36,3.57,12.15,8.56h-82.03Z"/>
+          <path class="st46" d="M585.77,291.4v25.79h59.03c7.12,0,12.89-5.78,12.89-12.89,0-3.55-1.44-6.78-3.77-9.12-2.34-2.33-5.57-3.77-9.12-3.77h-59.03Z"/>
+          <path class="st39" d="M585.77,295.82v16.53h55.55c4.57,0,8.27-3.7,8.27-8.27,0-2.28-.93-4.35-2.42-5.85-1.5-1.49-3.57-2.42-5.85-2.42h-55.55Z"/>
+        </g>
+        <g>
+          <path class="st51" d="M598.63,317.34v25.79h90.03c7.12,0,12.88-5.78,12.88-12.9,0-2.19-.55-4.25-1.51-6.06-.6-1.13-1.37-2.16-2.26-3.07-2.34-2.33-5.57-3.77-9.11-3.77h-90.03Z"/>
+          <path class="st45" d="M601.01,317.34v6.84h99.03c-.6-1.13-1.37-2.16-2.26-3.07-2.34-2.33-5.57-3.77-9.11-3.77h-87.66Z"/>
+          <path class="st45" d="M601.01,343.14v-6.84h99.03c-.6,1.13-1.37,2.16-2.26,3.07-2.34,2.33-5.57,3.77-9.11,3.77h-87.66Z"/>
+          <path class="st3" d="M575.06,317.34v25.79h54.03c7.12,0,12.89-5.78,12.89-12.89,0-3.55-1.44-6.78-3.77-9.12-2.34-2.33-5.57-3.77-9.12-3.77h-54.03,0Z"/>
+          <path class="st39" d="M575.06,321.76v16.53h50.55c4.57,0,8.27-3.7,8.27-8.27,0-2.28-.93-4.35-2.42-5.85-1.5-1.49-3.57-2.42-5.85-2.42h-50.55Z"/>
+        </g>
+      </g>
+      <g id="lamp-group">
+        <path id="Light_cone" class="anim-lamp-cone" fill="url(#light-cone-gradient)" d="M578.16,163.77l-237.53,108.2h253.86l15.85-73.88s5.99-25.54-32.17-34.31h-.01Z" mix-blend-mode="screen" aria-label="Lamp light cone"/>
+        <g id="lamp">
+          <g>
+            <path class="st36" d="M612.52,165.93h0c-4.31-4.59-3.93-11.68.83-15.83l.54-.47c4.77-4.15,12.12-3.79,16.43.8h0c4.31,4.59,3.93,11.68-.83,15.83l-.54.47c-4.77,4.15-12.13,3.79-16.43-.8h0Z"/>
+            <path class="st14" d="M621.66,188.22l-11.33,9.86-32.17-34.31,11.33-9.86c7.85-6.83,19.11-7.74,27.85-3,2.21,1.19,4.25,2.74,6.04,4.66,4.44,4.73,6.47,10.76,6.17,16.67-.32,5.92-2.97,11.71-7.88,15.99h0Z"/>
+            <path class="st41" d="M611.43,177.31l-11.33,9.86-21.94-23.4,11.33-9.86c7.85-6.83,19.11-7.74,27.85-3,1.5,3.31,2.16,6.88,1.97,10.41-.32,5.92-2.97,11.71-7.88,15.99h0Z"/>
+          </g>
+          <path class="st23" d="M610.92,197.95c-3.42,3.05-13.52-2.05-22.56-11.41s-13.61-19.43-10.19-22.49c2.7-2.42,9.58.26,16.82,6.12,1.91,1.56,3.85,3.33,5.74,5.28,2.21,2.29,4.15,4.61,5.77,6.87,5.04,6.99,7.01,13.32,4.43,15.63h-.01Z"/>
+          <path id="lamp-bulb" class="st39 anim-bulb-glow" d="M606.49,182.33c-2.62,2.88-7.07,3.71-10.68,1.74-4.12-2.24-5.58-7.3-3.25-11.28.62-1.06,1.46-1.95,2.42-2.62,1.91,1.56,3.85,3.33,5.74,5.28,2.21,2.29,4.15,4.61,5.77,6.87h0Z" aria-label="Lamp bulb"/>
+        </g>
+        <polyline class="st26" points="669.74 276.89 699.11 182.08 639.63 142.46 627.15 153.07"/>
+        <g>
+          <path class="st36" d="M646.16,143.02c0,3.89-3.27,7.05-7.31,7.05s-7.31-3.15-7.31-7.05,3.27-7.05,7.31-7.05,7.31,3.15,7.31,7.05Z"/>
+          <path class="st13" d="M642.51,143.02c0,1.95-1.64,3.52-3.66,3.52s-3.66-1.58-3.66-3.52,1.64-3.52,3.66-3.52,3.66,1.58,3.66,3.52Z"/>
+        </g>
+        <path class="st13" d="M699.31,291.71h-75.67c0-8.3,6.73-15.03,15.03-15.03h45.6c8.3,0,15.03,6.73,15.03,15.03h0Z"/>
+        <rect class="st36" x="639.24" y="272.92" width="13.65" height="4.13"/>
+      </g>
+      <g>
+        <g>
+          <path class="st44 anim-leaf-parallax-4" style="transform-origin: 760px 315px" d="M764.23,297.31c-11.1,15.11-33.36,17.62-33.36,17.62,0,0-4.27-21.99,6.83-37.11,11.1-15.11,33.36-17.62,33.36-17.62,0,0,4.27,21.99-6.83,37.11h0Z"/>
+          <path class="st0 anim-leaf-parallax-5" style="transform-origin: 710px 295px" d="M717.63,288.27c10.17,10.03,9.62,27.09,9.62,27.09,0,0-17.05.8-27.22-9.22-10.17-10.03-9.62-27.09-9.62-27.09,0,0,17.05-.8,27.22,9.22Z"/>
+          <path class="st55 anim-leaf-parallax-6" style="transform-origin: 738px 305px" d="M742.84,280.69c2.07,18.64-12.62,35.56-12.62,35.56,0,0-18.04-13.29-20.1-31.93-2.07-18.64,12.62-35.56,12.62-35.56,0,0,18.04,13.29,20.1,31.93Z"/>
+        </g>
+        <g>
+          <polygon class="st32" points="741.47 367.73 702.85 367.73 690.18 311.39 754.13 311.39 741.47 367.73"/>
+          <polygon class="st43" points="756.03 367.73 717.41 367.73 711.71 311.39 768.69 311.39 756.03 367.73"/>
+        </g>
+      </g>
+    </g>
+</svg>
